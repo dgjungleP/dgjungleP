@@ -4,7 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dgjungleP&count_private=true&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgjungleP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dgjungleP/dgjungleP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
