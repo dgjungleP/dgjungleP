@@ -10,7 +10,7 @@
  - 🌱 I’m currently learning C、Go and the shell with a little about front-end 
  - 🤔 I’m looking for help with how to be a professional programmer
  - :book: I'm reading some book like 《Refactoring》
- - :email: Welcome to email to me while you have some interesting idea: dgjungle_@163.com
+ - :email: Welcome to email to me while you have some interesting idea: dgjungle_c@163.com
 
 ------
 
