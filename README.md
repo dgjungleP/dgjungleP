@@ -6,7 +6,7 @@
 
 :information_desk_person:  Something about me:
 
- - 🔭 I’m currently working on back-end developer with Java
+ - 🔭 I’m currently working on back-end developer with Java (But, I'm not only Java)
  - 🌱 I’m currently learning C、Go and the shell with a little about front-end 
  - 🤔 I’m looking for help with how to be a professional programmer
  - :book: I'm reading some book like 《Refactoring》
