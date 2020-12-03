@@ -16,7 +16,7 @@
 
 :crossed_swords: My skill stack:
 
-- 💻 &#160; ![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red)
+- 💻 &#160; ![C](https://img.shields.io/badge/C-99-red)
 ![Go](https://img.shields.io/badge/Go-Lang-green)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
