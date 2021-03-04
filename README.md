@@ -1,5 +1,5 @@
 # <center>Here is Jungle's hub ,welcome!! 👋</center>  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dgjungleP.dgjungleP)
+
 
 ##  <center> I'm a back-end developer ,a strange keeping learner </center>
 
@@ -37,7 +37,7 @@
 [![Jungle's github stats](https://github-readme-stats.vercel.app/api?username=dgjungleP&count_private=true&show_icons=true&show_owner=true)](https://github.com/dgjungleP)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgjungleP&layout=compact)](https://github.com/dgjungleP)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dgjungleP.dgjungleP)
 ------
 
 :star2: From [Jungle](https://github.com/dgjungleP) thank to fork or start me!!   Show you my cat named 16
