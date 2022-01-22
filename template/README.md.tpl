@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ,I`m Jungle!!👋
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -40,15 +40,5 @@
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
