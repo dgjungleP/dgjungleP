@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ,I`m Jungle!!👋
 
 #### 👷 Check out what I'm currently working on
 
@@ -59,15 +59,5 @@
 - [Kakise](https://github.com/Kakise)
 - [imsomedev](https://github.com/imsomedev)
 - [Los-had](https://github.com/Los-had)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
