@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (today)
 - [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (3 days ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (1 week ago)
 - [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (2 weeks ago)
-- [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (2 weeks ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 weeks ago)
+- [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (2 weeks ago)
 - [dgjungleP/startK8s](https://github.com/dgjungleP/startK8s) -  (2 weeks ago)
 - [dgjungleP/startNextjs](https://github.com/dgjungleP/startNextjs) -  (3 weeks ago)
 - [dgjungleP/startDrools](https://github.com/dgjungleP/startDrools) -  (3 weeks ago)
-- [dgjungleP/startBlog](https://github.com/dgjungleP/startBlog) -  (2 months ago)
 - [dgjungleP/startIdeaPlugin](https://github.com/dgjungleP/startIdeaPlugin) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) - 
 - [dgjungleP/startCD](https://github.com/dgjungleP/startCD) - 
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) - 
 - [dgjungleP/startK8s](https://github.com/dgjungleP/startK8s) - 
@@ -24,7 +25,6 @@
 - [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) - 
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) - 
 - [dgjungleP/startIdeaPlugin](https://github.com/dgjungleP/startIdeaPlugin) - 
-- [dgjungleP/startBlog](https://github.com/dgjungleP/startBlog) - 
 
 #### 🔭 Latest releases I've contributed to
 
