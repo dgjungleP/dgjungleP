@@ -4,8 +4,8 @@
 
 - [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (today)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (today)
+- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (today)
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (1 day ago)
-- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 day ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (1 week ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 weeks ago)
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (2 weeks ago)
@@ -38,6 +38,9 @@
 
 #### ⭐ Recent Stars
 
+- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (today)
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (today)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (today)
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go (4 days ago)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples (1 week ago)
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (2 weeks ago)
@@ -45,9 +48,6 @@
 - [abel533/Mapper](https://github.com/abel533/Mapper) - Mybatis Common Mapper - Easy to use (1 month ago)
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. (1 month ago)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 month ago)
-- [BetaSu/just-react](https://github.com/BetaSu/just-react) - 「React技术揭秘」  一本自顶向下的React源码分析书 (1 month ago)
-- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js (1 month ago)
-- [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
