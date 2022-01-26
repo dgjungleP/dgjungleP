@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (1 day ago)
+- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (today)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 day ago)
-- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 day ago)
+- [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (1 day ago)
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (2 days ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (2 weeks ago)
-- [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 weeks ago)
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (2 weeks ago)
+- [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 weeks ago)
 - [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (2 weeks ago)
 - [dgjungleP/startK8s](https://github.com/dgjungleP/startK8s) -  (2 weeks ago)
 - [dgjungleP/startNextjs](https://github.com/dgjungleP/startNextjs) -  (3 weeks ago)
