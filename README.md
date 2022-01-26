@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (today)
-- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (today)
-- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (today)
-- [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (1 day ago)
-- [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (1 week ago)
+- [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (1 day ago)
+- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 day ago)
+- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 day ago)
+- [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (2 days ago)
+- [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (2 weeks ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 weeks ago)
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (2 weeks ago)
 - [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (2 weeks ago)
@@ -38,10 +38,10 @@
 
 #### ⭐ Recent Stars
 
-- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (today)
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (today)
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (today)
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (4 days ago)
+- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (1 day ago)
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org (1 day ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 day ago)
+- [ent/ent](https://github.com/ent/ent) - An entity framework for Go (5 days ago)
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples (1 week ago)
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). (2 weeks ago)
 - [kiegroup/drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java. (1 month ago)
