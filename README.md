@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (today)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 day ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 days ago)
-- [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (2 days ago)
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (3 days ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (2 weeks ago)
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (2 weeks ago)
