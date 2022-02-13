@@ -7,9 +7,9 @@
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 weeks ago)
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (2 weeks ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (1 month ago)
+- [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (1 month ago)
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (1 month ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (1 month ago)
-- [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (1 month ago)
 - [dgjungleP/startK8s](https://github.com/dgjungleP/startK8s) -  (1 month ago)
 - [dgjungleP/startNextjs](https://github.com/dgjungleP/startNextjs) -  (1 month ago)
 
