@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (today)
 - [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (3 weeks ago)
-- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (3 weeks ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (3 weeks ago)
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (3 weeks ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (1 month ago)
