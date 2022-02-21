@@ -54,10 +54,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [m0rp43us](https://github.com/m0rp43us)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
 - [vamper424](https://github.com/vamper424)
 - [OkamiMks](https://github.com/OkamiMks)
 - [Kakise](https://github.com/Kakise)
-- [imsomedev](https://github.com/imsomedev)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
