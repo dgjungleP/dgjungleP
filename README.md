@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform (today)
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot &amp; Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security &amp; Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc (today)
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的高性能监控告警系统。网站监测，PING连通性，端口可用性，数据库监控，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。 (1 week ago)
 - [adashofdata/nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing (1 week ago)
@@ -47,7 +48,6 @@
 - [coderbruis/JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) - Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码 (3 weeks ago)
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here) (3 weeks ago)
 - [4ra1n/SpringInspector](https://github.com/4ra1n/SpringInspector) - Java自动代码审计工具，尤其针对Spring框架，核心原理是模拟JVM栈帧进行分析，无需提供源码，通过一个JAR包即可 (1 month ago)
-- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
