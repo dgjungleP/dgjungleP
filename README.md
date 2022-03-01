@@ -10,8 +10,8 @@
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 month ago)
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (1 month ago)
 - [dgjungleP/startNetty](https://github.com/dgjungleP/startNetty) -  (1 month ago)
-- [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (1 month ago)
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) -  (1 month ago)
+- [dgjungleP/startCD](https://github.com/dgjungleP/startCD) -  (1 month ago)
 
 #### 🌱 My latest projects
 
