@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (today)
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat (1 day ago)
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot (1 day ago)
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io (1 day ago)
@@ -47,7 +48,6 @@
 - [adashofdata/nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing (2 weeks ago)
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (3 weeks ago)
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石&#34; — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍 (3 weeks ago)
-- [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - Be a Smart Developer, 开发从未如此简单 (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
