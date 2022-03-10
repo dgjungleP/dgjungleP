@@ -38,6 +38,8 @@
 
 #### ⭐ Recent Stars
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.  (today)
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (today)
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications (5 days ago)
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (1 week ago)
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat (1 week ago)
@@ -46,8 +48,6 @@
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform (1 week ago)
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot &amp; Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security &amp; Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc (1 week ago)
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的高性能监控告警系统。网站监测，PING连通性，端口可用性，数据库监控，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。 (3 weeks ago)
-- [adashofdata/nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing (3 weeks ago)
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
