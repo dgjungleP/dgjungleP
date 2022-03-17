@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (today)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.  (1 week ago)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (1 week ago)
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications (1 week ago)
@@ -47,7 +48,6 @@
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io (2 weeks ago)
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform (2 weeks ago)
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot &amp; Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security &amp; Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc (2 weeks ago)
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - 易用友好的高性能监控告警系统。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。 (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
