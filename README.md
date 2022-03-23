@@ -38,6 +38,8 @@
 
 #### ⭐ Recent Stars
 
+- [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！ (today)
+- [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform (today)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (6 days ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.  (1 week ago)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (1 week ago)
@@ -46,8 +48,6 @@
 - [apache/tomcat](https://github.com/apache/tomcat) - Apache Tomcat (3 weeks ago)
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot (3 weeks ago)
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io (3 weeks ago)
-- [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform (3 weeks ago)
-- [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot &amp; Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security &amp; Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
