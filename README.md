@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [huaban/jieba-analysis](https://github.com/huaban/jieba-analysis) - 结巴分词(java版) (today)
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版 (2 days ago)
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) (2 days ago)
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 days ago)
@@ -47,7 +48,6 @@
 - [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. (1 week ago)
 - [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！ (1 week ago)
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform (1 week ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
