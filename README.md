@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (today)
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit. (1 day ago)
 - [huaban/jieba-analysis](https://github.com/huaban/jieba-analysis) - 结巴分词(java版) (4 days ago)
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版 (6 days ago)
@@ -47,7 +48,6 @@
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly (1 week ago)
 - [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. (1 week ago)
-- [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！ (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
