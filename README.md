@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react (today)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 day ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (5 days ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 weeks ago)
@@ -11,10 +12,10 @@
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 month ago)
 - [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (2 months ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 months ago)
-- [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react
 - [dgjungleP/SpringTools](https://github.com/dgjungleP/SpringTools) - 一些公共组件
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work
@@ -24,7 +25,6 @@
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) - 
 - [dgjungleP/startCD](https://github.com/dgjungleP/startCD) - 
 - [dgjungleP/startCI](https://github.com/dgjungleP/startCI) - 
-- [dgjungleP/startK8s](https://github.com/dgjungleP/startK8s) - 
 
 #### 🔭 Latest releases I've contributed to
 
