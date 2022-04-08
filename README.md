@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [dgjungleP/dou-util-web](https://github.com/dgjungleP/dou-util-web) - 
 - [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react
 - [dgjungleP/SpringTools](https://github.com/dgjungleP/SpringTools) - 一些公共组件
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn
@@ -24,7 +25,6 @@
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) - 
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) - 
 - [dgjungleP/startCD](https://github.com/dgjungleP/startCD) - 
-- [dgjungleP/startCI](https://github.com/dgjungleP/startCI) - 
 
 #### 🔭 Latest releases I've contributed to
 
