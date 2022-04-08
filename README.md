@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/dou-util-web](https://github.com/dgjungleP/dou-util-web) -  (today)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 day ago)
 - [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react (2 days ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (3 days ago)
@@ -11,7 +12,6 @@
 - [dgjungleP/startSpring](https://github.com/dgjungleP/startSpring) - some demo about spring (1 month ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 month ago)
 - [dgjungleP/startMybatis](https://github.com/dgjungleP/startMybatis) -  (2 months ago)
-- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.3. (today)
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (2 days ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (2 days ago)
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit. (3 days ago)
@@ -47,7 +48,6 @@
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (1 week ago)
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
-- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
