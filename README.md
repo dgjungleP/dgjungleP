@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/startVertx](https://github.com/dgjungleP/startVertx) -  (today)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (3 days ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (5 days ago)
 - [dgjungleP/dou-util-web](https://github.com/dgjungleP/dou-util-web) -  (6 days ago)
@@ -11,10 +12,10 @@
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 month ago)
 - [dgjungleP/SpringTools](https://github.com/dgjungleP/SpringTools) - 一些公共组件 (1 month ago)
 - [dgjungleP/startSpring](https://github.com/dgjungleP/startSpring) - some demo about spring (1 month ago)
-- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 month ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/startVertx](https://github.com/dgjungleP/startVertx) - 
 - [dgjungleP/dou-util-web](https://github.com/dgjungleP/dou-util-web) - 
 - [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react
 - [dgjungleP/SpringTools](https://github.com/dgjungleP/SpringTools) - 一些公共组件
@@ -24,7 +25,6 @@
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) - 
 - [dgjungleP/startCanvas](https://github.com/dgjungleP/startCanvas) - 
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) - 
-- [dgjungleP/startCD](https://github.com/dgjungleP/startCD) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 (today)
 - [RudeCrab/rude-java](https://github.com/RudeCrab/rude-java) - Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue).   以Java语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架demo、项目脚手架。 (3 days ago)
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (3 days ago)
 - [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.3. (6 days ago)
@@ -47,7 +48,6 @@
 - [huaban/jieba-analysis](https://github.com/huaban/jieba-analysis) - 结巴分词(java版) (1 week ago)
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版 (2 weeks ago)
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available) (2 weeks ago)
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
