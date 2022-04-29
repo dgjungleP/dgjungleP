@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class. (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (3 days ago)
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 (2 weeks ago)
 - [RudeCrab/rude-java](https://github.com/RudeCrab/rude-java) - Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue).   以Java语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架demo、项目脚手架。 (2 weeks ago)
@@ -47,7 +48,6 @@
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (3 weeks ago)
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit. (3 weeks ago)
 - [huaban/jieba-analysis](https://github.com/huaban/jieba-analysis) - 结巴分词(java版) (3 weeks ago)
-- [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版 (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
