@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (2 days ago)
+- [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (today)
 - [dgjungleP/startVertx](https://github.com/dgjungleP/startVertx) -  (4 days ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (6 days ago)
 - [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react (1 week ago)
