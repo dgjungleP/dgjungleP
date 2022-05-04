@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [Maskhe/javasec](https://github.com/Maskhe/javasec) - 自己学习java安全的一些总结，主要是安全审计相关 (today)
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class. (5 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS (1 week ago)
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 (2 weeks ago)
@@ -47,7 +48,6 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (4 weeks ago)
 - [CodingDocs/awesome-idea](https://github.com/CodingDocs/awesome-idea) - IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧。  (4 weeks ago)
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit. (4 weeks ago)
-- [huaban/jieba-analysis](https://github.com/huaban/jieba-analysis) - 结巴分词(java版) (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
