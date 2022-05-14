@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio) - DataSphereStudio is a one stop data application development&amp; management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling. (today)
 - [SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability) - Java漏洞学习笔记 Deserialization Vulnerability (5 days ago)
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries (1 week ago)
 - [Maskhe/javasec](https://github.com/Maskhe/javasec) - 自己学习java安全的一些总结，主要是安全审计相关 (1 week ago)
@@ -47,7 +48,6 @@
 - [RudeCrab/rude-java](https://github.com/RudeCrab/rude-java) - Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue).   以Java语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架demo、项目脚手架。 (1 month ago)
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things. (1 month ago)
 - [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.4. (1 month ago)
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
