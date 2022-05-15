@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/startKotlin](https://github.com/dgjungleP/startKotlin) -  (today)
-- [dgjungleP/startAndroid](https://github.com/dgjungleP/startAndroid) -  (1 day ago)
 - [dgjungleP/startSpring](https://github.com/dgjungleP/startSpring) - some demo about spring (1 day ago)
+- [dgjungleP/startAndroid](https://github.com/dgjungleP/startAndroid) -  (1 day ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 week ago)
 - [dgjungleP/startNextjs](https://github.com/dgjungleP/startNextjs) -  (2 weeks ago)
 - [dgjungleP/startVertx](https://github.com/dgjungleP/startVertx) -  (2 weeks ago)
