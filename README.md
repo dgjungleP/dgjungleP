@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (today)
 - [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发 (4 days ago)
 - [crossoverJie/cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统 (4 days ago)
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. (4 days ago)
@@ -47,7 +48,6 @@
 - [SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability) - Java漏洞学习笔记 Deserialization Vulnerability (1 week ago)
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries (1 week ago)
 - [Maskhe/javasec](https://github.com/Maskhe/javasec) - 自己学习java安全的一些总结，主要是安全审计相关 (2 weeks ago)
-- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
