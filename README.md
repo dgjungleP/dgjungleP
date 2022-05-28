@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (today)
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  (1 day ago)
 - [infrahq/infra](https://github.com/infrahq/infra) - Single sign-on for infrastructure (1 day ago)
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (1 week ago)
@@ -47,7 +48,6 @@
 - [ysc/QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem) - QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。 (2 weeks ago)
 - [onblog/SnowJena](https://github.com/onblog/SnowJena) - Distributed lock-free current limiting framework based on token bucket algorithm.基于令牌桶算法实现的分布式无锁限流框架。（欢迎Star，🚫禁止Fork） (2 weeks ago)
 - [WeBankFinTech/DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio) - DataSphereStudio is a one stop data application development&amp; management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling. (2 weeks ago)
-- [SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability) - Java漏洞学习笔记 Deserialization Vulnerability (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
