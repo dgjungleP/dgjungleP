@@ -38,6 +38,8 @@
 
 #### ⭐ Recent Stars
 
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework (today)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! (today)
 - [yeecode/ObjectLogger](https://github.com/yeecode/ObjectLogger) - A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. 强大且易用的操作日志记录系统,支持对象属性的变化分析。 (today)
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (1 week ago)
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  (1 week ago)
@@ -46,8 +48,6 @@
 - [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发 (3 weeks ago)
 - [crossoverJie/cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统 (3 weeks ago)
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. (3 weeks ago)
-- [ysc/QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem) - QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。 (3 weeks ago)
-- [onblog/SnowJena](https://github.com/onblog/SnowJena) - Distributed lock-free current limiting framework based on token bucket algorithm.基于令牌桶算法实现的分布式无锁限流框架。（欢迎Star，🚫禁止Fork） (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
