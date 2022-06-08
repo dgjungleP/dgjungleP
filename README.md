@@ -39,7 +39,7 @@
 #### ⭐ Recent Stars
 
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework (today)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! (today)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (today)
 - [yeecode/ObjectLogger](https://github.com/yeecode/ObjectLogger) - A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. 强大且易用的操作日志记录系统,支持对象属性的变化分析。 (today)
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (1 week ago)
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  (1 week ago)
