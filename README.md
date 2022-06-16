@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - ShenYu is High-Performance Java API Gateway. (5 days ago)
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is dynamic full lifecycle JAVA API gateway with easy scalability and hot-pluggble features. (5 days ago)
 - [mabaiwan/hippo4j](https://github.com/mabaiwan/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池、Apache RocketMQ、Dubbo、RabbitMQ 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。 (5 days ago)
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework (1 week ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
