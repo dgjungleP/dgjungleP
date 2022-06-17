@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (today)
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java (1 day ago)
 - [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is dynamic full lifecycle JAVA API gateway with easy scalability and hot-pluggble features. (6 days ago)
 - [mabaiwan/hippo4j](https://github.com/mabaiwan/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池、Apache RocketMQ、Dubbo、RabbitMQ 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。 (6 days ago)
@@ -47,7 +48,6 @@
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (2 weeks ago)
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  (3 weeks ago)
 - [infrahq/infra](https://github.com/infrahq/infra) - Single sign-on for infrastructure (3 weeks ago)
-- [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
