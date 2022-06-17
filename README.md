@@ -47,7 +47,7 @@
 - [yeecode/ObjectLogger](https://github.com/yeecode/ObjectLogger) - A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. 强大且易用的操作日志记录系统,支持对象属性的变化分析。 (1 week ago)
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (2 weeks ago)
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  (3 weeks ago)
-- [infrahq/infra](https://github.com/infrahq/infra) - Single sign-on for infrastructure (3 weeks ago)
+- [infrahq/infra](https://github.com/infrahq/infra) - Manage infrastructure access (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
