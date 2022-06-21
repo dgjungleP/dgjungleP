@@ -42,7 +42,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (3 days ago)
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (4 days ago)
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java (5 days ago)
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is dynamic full lifecycle JAVA API gateway with easy scalability and hot-pluggble features. (1 week ago)
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (1 week ago)
 - [mabaiwan/hippo4j](https://github.com/mabaiwan/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池、Apache RocketMQ、Dubbo、RabbitMQ 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。 (1 week ago)
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework (1 week ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
