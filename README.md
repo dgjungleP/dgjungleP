@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [apache/maven](https://github.com/apache/maven) - Apache Maven core (today)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (4 days ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (4 days ago)
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (5 days ago)
@@ -47,7 +48,6 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework (2 weeks ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 weeks ago)
 - [yeecode/ObjectLogger](https://github.com/yeecode/ObjectLogger) - A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. 强大且易用的操作日志记录系统,支持对象属性的变化分析。 (2 weeks ago)
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features &amp; more (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
