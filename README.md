@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/maven](https://github.com/apache/maven) - Apache Maven core (3 days ago)
+- [apache/maven](https://github.com/apache/maven) - Apache Maven core (4 days ago)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (1 week ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (1 week ago)
