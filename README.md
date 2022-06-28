@@ -8,7 +8,7 @@
 - [dgjungleP/startAndroid](https://github.com/dgjungleP/startAndroid) -  (1 month ago)
 - [dgjungleP/startSpring](https://github.com/dgjungleP/startSpring) - some demo about spring (1 month ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 month ago)
-- [dgjungleP/startNextjs](https://github.com/dgjungleP/startNextjs) -  (1 month ago)
+- [dgjungleP/startNextjs](https://github.com/dgjungleP/startNextjs) -  (2 months ago)
 - [dgjungleP/startVertx](https://github.com/dgjungleP/startVertx) -  (2 months ago)
 - [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react (2 months ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 months ago)
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [apache/maven](https://github.com/apache/maven) - Apache Maven core (5 days ago)
+- [apache/maven](https://github.com/apache/maven) - Apache Maven core (6 days ago)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (1 week ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (1 week ago)
