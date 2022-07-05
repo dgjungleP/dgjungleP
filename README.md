@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [bigbully/Dapper-translation](https://github.com/bigbully/Dapper-translation) - translate the paper of &#34;Dapper, a Large-Scale Distributed Systems Tracing Infrastructure&#34; (today)
 - [inbug-team/InCloud](https://github.com/inbug-team/InCloud) - 运行于GitHub Actions 的仓库中自动化、自定义和执行软件开发工作流程，可以自己根据喜好定制功能，InCloud已经为您定制好了十种针对网段和域名的不同场景的信息收集与漏洞扫描流程。 (2 days ago)
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core (1 week ago)
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (2 weeks ago)
@@ -47,7 +48,6 @@
 - [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (3 weeks ago)
 - [mabaiwan/hippo4j](https://github.com/mabaiwan/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池、Apache RocketMQ、Dubbo、RabbitMQ 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。 (3 weeks ago)
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework (3 weeks ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
