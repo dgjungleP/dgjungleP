@@ -54,10 +54,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [TrumanDu](https://github.com/TrumanDu)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [AYIDouble](https://github.com/AYIDouble)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [m0rp43us](https://github.com/m0rp43us)
-- [TopCodeBeast](https://github.com/TopCodeBeast)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
