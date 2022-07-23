@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (3 days ago)
+- [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (4 days ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 week ago)
-- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 week ago)
+- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 weeks ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (2 weeks ago)
 - [dgjungleP/startRuby](https://github.com/dgjungleP/startRuby) -  (3 weeks ago)
 - [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (3 weeks ago)
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50&#43; mini web projects using HTML, CSS &amp; JS (today)
+- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50&#43; mini web projects using HTML, CSS &amp; JS (1 day ago)
 - [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) - www.haskell.org site source (1 week ago)
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating (1 week ago)
 - [bigbully/Dapper-translation](https://github.com/bigbully/Dapper-translation) - translate the paper of &#34;Dapper, a Large-Scale Distributed Systems Tracing Infrastructure&#34; (2 weeks ago)
