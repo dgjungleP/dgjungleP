@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50&#43; mini web projects using HTML, CSS &amp; JS (4 days ago)
+- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50&#43; mini web projects using HTML, CSS &amp; JS (5 days ago)
 - [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) - www.haskell.org site source (2 weeks ago)
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating (2 weeks ago)
 - [bigbully/Dapper-translation](https://github.com/bigbully/Dapper-translation) - translate the paper of &#34;Dapper, a Large-Scale Distributed Systems Tracing Infrastructure&#34; (3 weeks ago)
