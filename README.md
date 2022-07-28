@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (today)
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50&#43; mini web projects using HTML, CSS &amp; JS (6 days ago)
 - [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) - www.haskell.org site source (2 weeks ago)
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating (2 weeks ago)
@@ -47,7 +48,6 @@
 - [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. (1 month ago)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 (1 month ago)
-- [google/guava](https://github.com/google/guava) - Google core libraries for Java (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
