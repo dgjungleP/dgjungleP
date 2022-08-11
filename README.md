@@ -54,7 +54,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [wangwulong95](https://github.com/wangwulong95)
+- [Double-Wang5](https://github.com/Double-Wang5)
 - [xstressr](https://github.com/xstressr)
 - [yifanzheng](https://github.com/yifanzheng)
 - [TrumanDu](https://github.com/TrumanDu)
