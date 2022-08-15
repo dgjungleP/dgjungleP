@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang &amp; Preact. (today)
 - [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book） (1 week ago)
 - [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course) - Starter files, final projects, and FAQ for my HTML &#43; CSS course (2 weeks ago)
 - [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书 (2 weeks ago)
@@ -47,7 +48,6 @@
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50&#43; mini web projects using HTML, CSS &amp; JS (3 weeks ago)
 - [haskell-infra/www.haskell.org](https://github.com/haskell-infra/www.haskell.org) - www.haskell.org site source (1 month ago)
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating (1 month ago)
-- [bigbully/Dapper-translation](https://github.com/bigbully/Dapper-translation) - translate the paper of &#34;Dapper, a Large-Scale Distributed Systems Tracing Infrastructure&#34; (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
