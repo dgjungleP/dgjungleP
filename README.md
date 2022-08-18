@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby (today)
 - [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (today)
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson) - Fastjson姿势技巧集合 (2 days ago)
 - [Snailclimb/guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty&#43;Kyro&#43;Zookeeper.（一款基于 Netty&#43;Kyro&#43;Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。） (2 days ago)
@@ -47,7 +48,6 @@
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang &amp; Preact. (3 days ago)
 - [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book） (1 week ago)
 - [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course) - Starter files, final projects, and FAQ for my HTML &#43; CSS course (2 weeks ago)
-- [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
