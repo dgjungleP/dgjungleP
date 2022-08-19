@@ -3,18 +3,19 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (today)
+- [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (today)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 day ago)
 - [dgjungleP/startWebPack](https://github.com/dgjungleP/startWebPack) -  (3 days ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 month ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 month ago)
-- [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (1 month ago)
 - [dgjungleP/startRuby](https://github.com/dgjungleP/startRuby) -  (1 month ago)
+- [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (1 month ago)
 - [dgjungleP/startReact](https://github.com/dgjungleP/startReact) -  (2 months ago)
 - [dgjungleP/startES](https://github.com/dgjungleP/startES) -  (2 months ago)
-- [dgjungleP/startAndroid](https://github.com/dgjungleP/startAndroid) -  (3 months ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos
 - [dgjungleP/startWebPack](https://github.com/dgjungleP/startWebPack) - 
 - [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) - 
 - [dgjungleP/startES](https://github.com/dgjungleP/startES) - 
@@ -24,7 +25,6 @@
 - [dgjungleP/e2r-app](https://github.com/dgjungleP/e2r-app) - electron-with-react
 - [dgjungleP/SpringTools](https://github.com/dgjungleP/SpringTools) - 一些公共组件
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn
-- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work
 
 #### 🔭 Latest releases I've contributed to
 
