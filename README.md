@@ -54,10 +54,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [xixiWj](https://github.com/xixiWj)
 - [Double-Wang5](https://github.com/Double-Wang5)
 - [xstressr](https://github.com/xstressr)
 - [yifanzheng](https://github.com/yifanzheng)
 - [TrumanDu](https://github.com/TrumanDu)
-- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
