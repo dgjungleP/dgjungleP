@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework (today)
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby (6 days ago)
 - [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (6 days ago)
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson) - Fastjson姿势技巧集合 (1 week ago)
@@ -47,7 +48,6 @@
 - [yuyinws/gitmand](https://github.com/yuyinws/gitmand) - display your most used command on Github/Gist (1 week ago)
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang &amp; Preact. (1 week ago)
 - [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book） (2 weeks ago)
-- [jonasschmedtmann/html-css-course](https://github.com/jonasschmedtmann/html-css-course) - Starter files, final projects, and FAQ for my HTML &#43; CSS course (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
