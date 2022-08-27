@@ -38,6 +38,8 @@
 
 #### ⭐ Recent Stars
 
+- [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault. (today)
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (today)
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展 (1 day ago)
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT (1 day ago)
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework (3 days ago)
@@ -46,8 +48,6 @@
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson) - Fastjson姿势技巧集合 (1 week ago)
 - [Snailclimb/guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty&#43;Kyro&#43;Zookeeper.（一款基于 Netty&#43;Kyro&#43;Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。） (1 week ago)
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄 (1 week ago)
-- [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。 (1 week ago)
-- [yuyinws/gitmand](https://github.com/yuyinws/gitmand) - display your most used command on Github/Gist (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
