@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (today)
-- [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (today)
-- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 day ago)
-- [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (6 days ago)
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 day ago)
+- [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (1 day ago)
+- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (2 days ago)
+- [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (1 week ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 week ago)
 - [dgjungleP/startWebPack](https://github.com/dgjungleP/startWebPack) -  (1 week ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 month ago)
@@ -38,9 +38,9 @@
 
 #### ⭐ Recent Stars
 
-- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展 (today)
-- [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT (today)
-- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework (2 days ago)
+- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展 (1 day ago)
+- [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT (1 day ago)
+- [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework (3 days ago)
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby (1 week ago)
 - [brettwooldridge/HikariCP-benchmark](https://github.com/brettwooldridge/HikariCP-benchmark) - JHM benchmarks for JDBC Connection Pools (1 week ago)
 - [safe6Sec/Fastjson](https://github.com/safe6Sec/Fastjson) - Fastjson姿势技巧集合 (1 week ago)
