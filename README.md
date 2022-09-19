@@ -38,6 +38,9 @@
 
 #### ⭐ Recent Stars
 
+- [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial) - NLP新手入门教程 (today)
+- [yifanzheng/light-rpc](https://github.com/yifanzheng/light-rpc) - 使用 netty 实现的轻量级 rpc 框架 (today)
+- [weibocom/motan](https://github.com/weibocom/motan) - A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services. (today)
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework. (1 day ago)
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (2 days ago)
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (3 days ago)
@@ -45,9 +48,6 @@
 - [NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典 (4 days ago)
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications (1 week ago)
 - [CN-GuoZiyang/My-RPC-Framework](https://github.com/CN-GuoZiyang/My-RPC-Framework) - 一个简单的RPC框架的实现 (1 week ago)
-- [dromara/cubic](https://github.com/dromara/cubic) - 一站式问题定位平台，还在为线上问题而烦恼吗？分布式实例监控、线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题 (1 week ago)
-- [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly. (2 weeks ago)
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
