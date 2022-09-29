@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (today)
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine. (1 day ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (3 days ago)
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions &amp; Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 (6 days ago)
@@ -47,7 +48,6 @@
 - [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial) - NLP新手入门教程 (1 week ago)
 - [yifanzheng/light-rpc](https://github.com/yifanzheng/light-rpc) - 使用 netty 实现的轻量级 rpc 框架 (1 week ago)
 - [weibocom/motan](https://github.com/weibocom/motan) - A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services. (1 week ago)
-- [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
