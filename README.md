@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (today)
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose (2 days ago)
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (1 week ago)
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine. (1 week ago)
@@ -47,7 +48,6 @@
 - [eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) - ⚗️ GitHub开源项目维护协作指南 (2 weeks ago)
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (2 weeks ago)
 - [PKU-TANGENT/nlp-tutorial](https://github.com/PKU-TANGENT/nlp-tutorial) - NLP新手入门教程 (2 weeks ago)
-- [yifanzheng/light-rpc](https://github.com/yifanzheng/light-rpc) - 使用 netty 实现的轻量级 rpc 框架 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
