@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers (today)
 - [mybatis/generator](https://github.com/mybatis/generator) - A code generator for MyBatis. (1 day ago)
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework (2 days ago)
 - [786744873/docker-compose-hub](https://github.com/786744873/docker-compose-hub) - 一键自动化运维，一键搭建docker-compose脚本，常用docker容器快速启动仓库 (4 days ago)
@@ -47,7 +48,6 @@
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine. (2 weeks ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (2 weeks ago)
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions &amp; Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 (2 weeks ago)
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
