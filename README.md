@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [takari/takari-plugin-testing-project](https://github.com/takari/takari-plugin-testing-project) - Maven Plugin Testing Framework (today)
 - [paul-hammant/qdox](https://github.com/paul-hammant/qdox) - QDox - full extractor of Java class/interface/method definitions (including annotations, parameters, param names) (today)
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java (1 day ago)
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers (1 day ago)
@@ -47,7 +48,6 @@
 - [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (6 days ago)
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose (1 week ago)
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (2 weeks ago)
-- [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
