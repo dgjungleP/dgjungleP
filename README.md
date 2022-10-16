@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps  (today)
 - [takari/takari-plugin-testing-project](https://github.com/takari/takari-plugin-testing-project) - Maven Plugin Testing Framework (2 days ago)
 - [paul-hammant/qdox](https://github.com/paul-hammant/qdox) - QDox - full extractor of Java class/interface/method definitions (including annotations, parameters, param names) (2 days ago)
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java (3 days ago)
@@ -47,7 +48,6 @@
 - [786744873/docker-compose-hub](https://github.com/786744873/docker-compose-hub) - 一键自动化运维，一键搭建docker-compose脚本，常用docker容器快速启动仓库 (1 week ago)
 - [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 (1 week ago)
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose (1 week ago)
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design &amp; prototyping platform (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
