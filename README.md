@@ -54,10 +54,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [daweedkob](https://github.com/daweedkob)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
 - [xixiWj](https://github.com/xixiWj)
-- [Double-Wang5](https://github.com/Double-Wang5)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
