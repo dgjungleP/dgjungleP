@@ -58,6 +58,6 @@
 - [daweedkob](https://github.com/daweedkob)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
-- [xixiWj](https://github.com/xixiWj)
+- [izachwei](https://github.com/izachwei)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
