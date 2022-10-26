@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (today)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (today)
 - [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud  (1 day ago)
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 day ago)
 - [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (1 day ago)
 - [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (1 week ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (4 weeks ago)
@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (today)
 - [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (1 day ago)
 - [tywo45/t-io](https://github.com/tywo45/t-io) - 网络编程很苦，用t-io后会很甜 (5 days ago)
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker (1 week ago)
@@ -47,7 +48,6 @@
 - [paul-hammant/qdox](https://github.com/paul-hammant/qdox) - QDox - full extractor of Java class/interface/method definitions (including annotations, parameters, param names) (1 week ago)
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java (1 week ago)
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers (1 week ago)
-- [mybatis/generator](https://github.com/mybatis/generator) - A code generator for MyBatis. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
