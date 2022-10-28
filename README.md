@@ -38,6 +38,7 @@
 
 #### ⭐ Recent Stars
 
+- [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (today)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (today)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (2 days ago)
 - [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (3 days ago)
@@ -47,7 +48,6 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps  (1 week ago)
 - [takari/takari-plugin-testing-project](https://github.com/takari/takari-plugin-testing-project) - Maven Plugin Testing Framework (2 weeks ago)
 - [paul-hammant/qdox](https://github.com/paul-hammant/qdox) - QDox - full extractor of Java class/interface/method definitions (including annotations, parameters, param names) (2 weeks ago)
-- [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
