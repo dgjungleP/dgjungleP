@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (today)
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (1 day ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (1 day ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (3 days ago)
@@ -48,7 +49,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps  (1 week ago)
 - [takari/takari-plugin-testing-project](https://github.com/takari/takari-plugin-testing-project) - Maven Plugin Testing Framework (2 weeks ago)
-- [paul-hammant/qdox](https://github.com/paul-hammant/qdox) - QDox - full extractor of Java class/interface/method definitions (including annotations, parameters, param names) (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
