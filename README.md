@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 day ago)
-- [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud  (1 day ago)
-- [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 day ago)
-- [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (2 days ago)
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (2 days ago)
-- [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (5 days ago)
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (2 days ago)
+- [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud  (2 days ago)
+- [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (2 days ago)
+- [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (3 days ago)
+- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (3 days ago)
+- [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (6 days ago)
 - [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (1 week ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 month ago)
 - [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (2 months ago)
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (2 days ago)
+- [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (3 days ago)
 
 
 #### 📓 Gists I wrote
@@ -39,11 +39,11 @@
 
 #### ⭐ Recent Stars
 
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (1 day ago)
-- [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (2 days ago)
-- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (2 days ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (4 days ago)
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (5 days ago)
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (2 days ago)
+- [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (3 days ago)
+- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (3 days ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (5 days ago)
+- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (6 days ago)
 - [tywo45/t-io](https://github.com/tywo45/t-io) - 网络编程很苦，用t-io后会很甜 (1 week ago)
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker (1 week ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
