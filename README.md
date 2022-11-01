@@ -39,16 +39,16 @@
 
 #### ⭐ Recent Stars
 
+- [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台 (today)
+- [he2121/MyRPCFromZero](https://github.com/he2121/MyRPCFromZero) - 从零开始，手写一个RPC，任何人都能看懂 (today)
+- [CoderXiaohui/mini-tomcat](https://github.com/CoderXiaohui/mini-tomcat) - 手写一个迷你版本的Tomcat，实现了静态、动态资源的访问。 (today)
+- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch (today)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (3 days ago)
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (4 days ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (4 days ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (6 days ago)
 - [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (1 week ago)
-- [tywo45/t-io](https://github.com/tywo45/t-io) - 网络编程很苦，用t-io后会很甜 (1 week ago)
-- [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker (1 week ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps  (2 weeks ago)
-- [takari/takari-plugin-testing-project](https://github.com/takari/takari-plugin-testing-project) - Maven Plugin Testing Framework (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
