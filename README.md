@@ -39,6 +39,7 @@
 
 #### ⭐ Recent Stars
 
+- [golang/go](https://github.com/golang/go) - The Go programming language (today)
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台 (2 days ago)
 - [he2121/MyRPCFromZero](https://github.com/he2121/MyRPCFromZero) - 从零开始，手写一个RPC，任何人都能看懂 (2 days ago)
 - [CoderXiaohui/mini-tomcat](https://github.com/CoderXiaohui/mini-tomcat) - 手写一个迷你版本的Tomcat，实现了静态、动态资源的访问。 (2 days ago)
@@ -48,7 +49,6 @@
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (6 days ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (6 days ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (1 week ago)
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
