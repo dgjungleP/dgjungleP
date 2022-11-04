@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) ([v1.0.0](https://github.com/izachwei/easy-cache/releases/tag/v1.0.0), today) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件
 
 #### 🔨 My recent Pull Requests
 
