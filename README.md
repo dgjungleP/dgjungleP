@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [Dinosaur-Park/heyelb](https://github.com/Dinosaur-Park/heyelb) - distributed loadbalancer (today)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 days ago)
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台 (5 days ago)
 - [he2121/MyRPCFromZero](https://github.com/he2121/MyRPCFromZero) - 从零开始，手写一个RPC，任何人都能看懂 (5 days ago)
@@ -49,7 +50,6 @@
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (1 week ago)
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM (1 week ago)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. (1 week ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
