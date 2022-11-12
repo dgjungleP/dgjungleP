@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (today)
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.  (1 day ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (3 days ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (3 days ago)
@@ -49,7 +50,6 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (3 days ago)
 - [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (3 days ago)
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (3 days ago)
-- [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles. (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
