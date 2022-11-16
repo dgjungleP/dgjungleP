@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (today)
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (4 days ago)
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.  (5 days ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
@@ -49,7 +50,6 @@
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. (1 week ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 week ago)
 - [bbyars/mountebank](https://github.com/bbyars/mountebank) - Over the wire test doubles (1 week ago)
-- [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
