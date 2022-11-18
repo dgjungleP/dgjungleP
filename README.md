@@ -6,11 +6,11 @@
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (1 week ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (2 weeks ago)
 - [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud  (2 weeks ago)
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (2 weeks ago)
+- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (3 weeks ago)
 - [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (3 weeks ago)
-- [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (4 weeks ago)
+- [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (1 month ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 month ago)
-- [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (2 months ago)
+- [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (3 months ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (3 months ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) ([v1.0.0](https://github.com/izachwei/easy-cache/releases/tag/v1.0.0), 1 week ago) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件
+- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) ([v1.0.0](https://github.com/izachwei/easy-cache/releases/tag/v1.0.0), 2 weeks ago) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件
 
 #### 🔨 My recent Pull Requests
 
-- [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (2 weeks ago)
+- [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (3 weeks ago)
 
 
 #### 📓 Gists I wrote
@@ -40,10 +40,10 @@
 
 #### ⭐ Recent Stars
 
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表) (1 day ago)
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (1 day ago)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (5 days ago)
-- [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.  (6 days ago)
+- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表) (2 days ago)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (2 days ago)
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (6 days ago)
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.  (1 week ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (1 week ago)
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (1 week ago)
