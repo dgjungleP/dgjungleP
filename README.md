@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (today)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and collaboration. (1 day ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 day ago)
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents (1 day ago)
@@ -49,7 +50,6 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes (3 days ago)
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表) (6 days ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (6 days ago)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
