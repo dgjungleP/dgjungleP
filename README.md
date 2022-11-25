@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan (today)
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps (2 days ago)
 - [caidukai/sms-interception](https://github.com/caidukai/sms-interception) - 拥有自己的短信拦截器 (2 days ago)
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (2 days ago)
@@ -49,7 +50,6 @@
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 days ago)
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents (4 days ago)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. (4 days ago)
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
