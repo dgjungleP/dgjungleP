@@ -40,6 +40,8 @@
 
 #### ⭐ Recent Stars
 
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (today)
+- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (today)
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (4 days ago)
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last. (1 week ago)
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes (1 week ago)
@@ -48,8 +50,6 @@
 - [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan (1 week ago)
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps (2 weeks ago)
 - [caidukai/sms-interception](https://github.com/caidukai/sms-interception) - 拥有自己的短信拦截器 (2 weeks ago)
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (2 weeks ago)
-- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
