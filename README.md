@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM (today)
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever (1 day ago)
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 &#43; 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com   (1 day ago)
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers (5 days ago)
@@ -49,7 +50,6 @@
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. (1 week ago)
 - [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan (1 week ago)
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps (2 weeks ago)
-- [caidukai/sms-interception](https://github.com/caidukai/sms-interception) - 拥有自己的短信拦截器 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
