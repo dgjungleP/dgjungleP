@@ -11,7 +11,7 @@
 - [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) -  (1 month ago)
 - [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x. (1 month ago)
 - [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos (3 months ago)
-- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (3 months ago)
+- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@
 
 #### ⭐ Recent Stars
 
-- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine (2 days ago)
+- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine (3 days ago)
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟 (1 week ago)
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers (1 week ago)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (1 week ago)
