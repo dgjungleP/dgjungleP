@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (2 weeks ago)
-- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (2 weeks ago)
+- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (3 weeks ago)
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (1 month ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (1 month ago)
 - [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud  (1 month ago)
@@ -40,8 +40,8 @@
 
 #### ⭐ Recent Stars
 
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (3 days ago)
-- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine (6 days ago)
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (4 days ago)
+- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine (1 week ago)
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟 (1 week ago)
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers (1 week ago)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (1 week ago)
