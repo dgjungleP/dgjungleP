@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (today)
-- [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (1 day ago)
+- [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (today)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (3 weeks ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 month ago)
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (1 month ago)
