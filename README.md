@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (today)
-- [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (today)
+- [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (1 day ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (3 weeks ago)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 month ago)
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (1 month ago)
@@ -40,14 +40,14 @@
 
 #### ⭐ Recent Stars
 
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (today)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 day ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 days ago)
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]  (3 days ago)
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban (5 days ago)
-- [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler (6 days ago)
-- [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software. (6 days ago)
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (1 week ago)
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (1 day ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 days ago)
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (4 days ago)
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]  (4 days ago)
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban (6 days ago)
+- [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler (1 week ago)
+- [uhub/awesome-lua](https://github.com/uhub/awesome-lua) - A curated list of awesome Lua frameworks, libraries and software. (1 week ago)
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (2 weeks ago)
 - [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine (2 weeks ago)
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟 (3 weeks ago)
 
