@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (3 days ago)
-- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (3 days ago)
+- [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (4 days ago)
+- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (4 days ago)
 - [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (1 week ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 month ago)
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (2 months ago)
@@ -40,12 +40,12 @@
 
 #### ⭐ Recent Stars
 
-- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (today)
+- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (1 day ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 week ago)
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 (1 week ago)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (1 week ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (1 week ago)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 week ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 weeks ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (2 weeks ago)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]  (2 weeks ago)
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban (2 weeks ago)
@@ -56,10 +56,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [HyunCafe](https://github.com/HyunCafe)
 - [david-kariuki](https://github.com/david-kariuki)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
+- [izachwei](https://github.com/izachwei)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
