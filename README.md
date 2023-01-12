@@ -57,9 +57,9 @@
 #### 👯 Check out some of my recent followers
 
 - [david-kariuki](https://github.com/david-kariuki)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
 - [izachwei](https://github.com/izachwei)
+- [Double-Wang5](https://github.com/Double-Wang5)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
