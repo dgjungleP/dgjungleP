@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API (today)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (5 days ago)
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 weeks ago)
@@ -49,7 +50,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (2 weeks ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 weeks ago)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]  (3 weeks ago)
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
