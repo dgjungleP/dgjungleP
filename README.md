@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components (today)
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API (3 days ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (1 week ago)
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (1 week ago)
@@ -49,7 +50,6 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (3 weeks ago)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (3 weeks ago)
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (3 weeks ago)
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]  (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
