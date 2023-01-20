@@ -56,10 +56,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [david-kariuki](https://github.com/david-kariuki)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
 - [izachwei](https://github.com/izachwei)
-- [Double-Wang5](https://github.com/Double-Wang5)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
