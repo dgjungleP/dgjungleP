@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) - 🧱 「Java学习」一份涵盖大部分Java程序员所需要掌握的核心知识。JDK 源码分析 &amp; Java 新特性 &amp; Java 并发编程 &amp; Java 虚拟机 &amp; SpringBoot 2.x 系列 (today)
 - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components (1 week ago)
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API (1 week ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (2 weeks ago)
@@ -49,7 +50,6 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 weeks ago)
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (4 weeks ago)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (1 month ago)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
