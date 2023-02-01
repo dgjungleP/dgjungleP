@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [xswei/d3js_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar_chart: :chart_with_upwards_trend: :tada: (today)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (today)
 - [Bastian/dapper-ui](https://github.com/Bastian/dapper-ui) - A sleek and modern UI component library for Svelte. Work in Progress! (today)
 - [shinokada/svelte-heros-v2](https://github.com/shinokada/svelte-heros-v2) - Hero Icons v2 for Svelte. You can select outline and solid icons using the variation props. Svlete-Heros support major CSS framework. You can add additional CSS using the `class` props. (1 day ago)
@@ -49,7 +50,6 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (2 weeks ago)
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (3 weeks ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (4 weeks ago)
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
