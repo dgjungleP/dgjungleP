@@ -40,6 +40,8 @@
 
 #### ⭐ Recent Stars
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (today)
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (today)
 - [xswei/d3js_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar_chart: :chart_with_upwards_trend: :tada: (2 days ago)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (2 days ago)
 - [Bastian/dapper-ui](https://github.com/Bastian/dapper-ui) - A sleek and modern UI component library for Svelte. Work in Progress! (2 days ago)
@@ -48,8 +50,6 @@
 - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components (2 weeks ago)
 - [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API (2 weeks ago)
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (3 weeks ago)
-- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (3 weeks ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
