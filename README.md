@@ -40,6 +40,7 @@
 
 #### ⭐ Recent Stars
 
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (today)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (3 days ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (3 days ago)
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (3 days ago)
@@ -49,7 +50,6 @@
 - [shinokada/svelte-heros-v2](https://github.com/shinokada/svelte-heros-v2) - Hero Icons v2 for Svelte. You can select outline and solid icons using the variation props. Svlete-Heros support major CSS framework. You can add additional CSS using the `class` props. (6 days ago)
 - [niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) - 🧱 「Java学习」一份涵盖大部分Java程序员所需要掌握的核心知识。JDK 源码分析 &amp; Java 新特性 &amp; Java 并发编程 &amp; Java 虚拟机 &amp; SpringBoot 2.x 系列 (1 week ago)
 - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components (2 weeks ago)
-- [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
