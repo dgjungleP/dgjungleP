@@ -40,6 +40,8 @@
 
 #### ⭐ Recent Stars
 
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (today)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (today)
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (today)
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (today)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (1 day ago)
@@ -48,8 +50,6 @@
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (4 days ago)
 - [xswei/d3js_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar_chart: :chart_with_upwards_trend: :tada: (6 days ago)
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (6 days ago)
-- [Bastian/dapper-ui](https://github.com/Bastian/dapper-ui) - A sleek and modern UI component library for Svelte. Work in Progress! (6 days ago)
-- [shinokada/svelte-heros-v2](https://github.com/shinokada/svelte-heros-v2) - Hero Icons v2 for Svelte. You can select outline and solid icons using the variation props. Svlete-Heros support major CSS framework. You can add additional CSS using the `class` props. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
