@@ -40,6 +40,8 @@
 
 #### ⭐ Recent Stars
 
+- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (today)
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (today)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (1 day ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (4 days ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (4 days ago)
@@ -48,8 +50,6 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (6 days ago)
 - [Bastian/dapper-ui](https://github.com/Bastian/dapper-ui) - A sleek and modern UI component library for Svelte. Work in Progress! (6 days ago)
 - [shinokada/svelte-heros-v2](https://github.com/shinokada/svelte-heros-v2) - Hero Icons v2 for Svelte. You can select outline and solid icons using the variation props. Svlete-Heros support major CSS framework. You can add additional CSS using the `class` props. (1 week ago)
-- [niumoo/JavaNotes](https://github.com/niumoo/JavaNotes) - 🧱 「Java学习」一份涵盖大部分Java程序员所需要掌握的核心知识。JDK 源码分析 &amp; Java 新特性 &amp; Java 并发编程 &amp; Java 虚拟机 &amp; SpringBoot 2.x 系列 (1 week ago)
-- [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
