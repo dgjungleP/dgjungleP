@@ -40,6 +40,8 @@
 
 #### ⭐ Recent Stars
 
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager (today)
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (today)
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (1 day ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 day ago)
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (1 day ago)
@@ -48,8 +50,6 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (5 days ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (5 days ago)
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (5 days ago)
-- [xswei/d3js_doc](https://github.com/xswei/d3js_doc) - D3js中文文档  D3中文 :bar_chart: :chart_with_upwards_trend: :tada: (1 week ago)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
