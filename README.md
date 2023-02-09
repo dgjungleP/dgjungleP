@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (today)
+- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 day ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 week ago)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 month ago)
 - [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (1 month ago)
@@ -40,16 +40,16 @@
 
 #### ⭐ Recent Stars
 
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager (today)
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (today)
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (1 day ago)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 day ago)
-- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (1 day ago)
-- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (1 day ago)
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (2 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (5 days ago)
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (5 days ago)
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (5 days ago)
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager (1 day ago)
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 day ago)
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (2 days ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (2 days ago)
+- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (2 days ago)
+- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (2 days ago)
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (3 days ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (6 days ago)
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (6 days ago)
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
