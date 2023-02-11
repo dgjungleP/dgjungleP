@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (2 days ago)
+- [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (today)
 - [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (2 days ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 week ago)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 month ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (today)
 - [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (2 days ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (3 months ago)
 
