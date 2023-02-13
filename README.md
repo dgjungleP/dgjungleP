@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (today)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager (5 days ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (5 days ago)
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (6 days ago)
@@ -51,7 +52,6 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (1 week ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (1 week ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (1 week ago)
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
