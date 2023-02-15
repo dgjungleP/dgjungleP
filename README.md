@@ -43,7 +43,7 @@
 #### ⭐ Recent Stars
 
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (2 days ago)
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager (1 week ago)
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (1 week ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 week ago)
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (1 week ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 week ago)
