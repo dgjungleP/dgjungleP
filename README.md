@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [ibeatai/ai-prompts](https://github.com/ibeatai/ai-prompts) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (today)
+- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (today)
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (1 week ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (2 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
