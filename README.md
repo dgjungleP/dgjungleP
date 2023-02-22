@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [ibeatai/ai-prompts](https://github.com/ibeatai/ai-prompts) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (today)
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (1 week ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (2 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
@@ -51,7 +52,6 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (2 weeks ago)
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (2 weeks ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (2 weeks ago)
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator… (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
