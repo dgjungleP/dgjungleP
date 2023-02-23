@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 day ago)
-- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (1 day ago)
+- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (2 days ago)
+- [dgjungleP/Jungle_bakend_demo](https://github.com/dgjungleP/Jungle_bakend_demo) - Some Demo about learn (2 days ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 week ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 week ago)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (1 month ago)
@@ -33,7 +33,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (1 week ago)
-- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (1 week ago)
+- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (2 weeks ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (3 months ago)
 
 
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (today)
+- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (1 day ago)
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (1 week ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (2 weeks ago)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
