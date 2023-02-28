@@ -42,6 +42,8 @@
 
 #### ⭐ Recent Stars
 
+- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (today)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (today)
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (6 days ago)
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (2 weeks ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (2 weeks ago)
@@ -50,8 +52,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (3 weeks ago)
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (3 weeks ago)
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.  (3 weeks ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
