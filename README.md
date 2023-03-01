@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (today)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (1 day ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 day ago)
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (1 week ago)
@@ -51,7 +52,6 @@
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (3 weeks ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (3 weeks ago)
-- [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component). (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
