@@ -28,12 +28,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) ([v1.0.1](https://github.com/izachwei/easy-cache/releases/tag/v1.0.1), 4 weeks ago) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件
+- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) ([v1.0.1](https://github.com/izachwei/easy-cache/releases/tag/v1.0.1), 1 month ago) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件
 
 #### 🔨 My recent Pull Requests
 
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (2 weeks ago)
-- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (2 weeks ago)
+- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (3 weeks ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (4 months ago)
 
 
@@ -42,9 +42,9 @@
 
 #### ⭐ Recent Stars
 
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (today)
-- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (1 day ago)
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 day ago)
+- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (1 day ago)
+- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (2 days ago)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (2 days ago)
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (1 week ago)
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (2 weeks ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (3 weeks ago)
