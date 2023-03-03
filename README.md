@@ -42,9 +42,9 @@
 
 #### ⭐ Recent Stars
 
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (1 day ago)
-- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (2 days ago)
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (2 days ago)
+- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (2 days ago)
+- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (3 days ago)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (3 days ago)
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (1 week ago)
 - [XiaoMi/mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided (2 weeks ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 (3 weeks ago)
