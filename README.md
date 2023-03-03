@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [HyunCafe](https://github.com/HyunCafe)
 - [annie-n3](https://github.com/annie-n3)
 - [david-kariuki](https://github.com/david-kariuki)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
+- [izachwei](https://github.com/izachwei)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
