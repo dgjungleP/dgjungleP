@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (today)
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (1 week ago)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 week ago)
@@ -51,7 +52,6 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 month ago)
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer (1 month ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 month ago)
-- [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
