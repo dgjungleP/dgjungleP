@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (2 weeks ago)
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (3 weeks ago)
-- [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (3 weeks ago)
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (4 weeks ago)
+- [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (4 weeks ago)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (2 months ago)
 - [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (2 months ago)
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (4 months ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (3 weeks ago)
-- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (4 weeks ago)
+- [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (4 weeks ago)
+- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (1 month ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (4 months ago)
 
 
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (today)
+- [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (1 day ago)
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (1 week ago)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 week ago)
