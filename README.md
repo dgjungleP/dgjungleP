@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (today)
+- [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 day ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (2 weeks ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (4 weeks ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (4 weeks ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (1 day ago)
+- [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (2 days ago)
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (1 week ago)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (1 week ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (1 week ago)
