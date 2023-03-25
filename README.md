@@ -42,9 +42,9 @@
 
 #### ⭐ Recent Stars
 
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (today)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (2 days ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 day ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (3 days ago)
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack (1 week ago)
 - [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (2 weeks ago)
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (3 weeks ago)
