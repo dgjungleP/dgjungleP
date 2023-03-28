@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (today)
 - [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (1 day ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (4 days ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (4 days ago)
@@ -51,7 +52,6 @@
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (3 weeks ago)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (4 weeks ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (4 weeks ago)
-- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - 分门别类收集各种 AI prompts，帮助大家更高效的完成 AI 提示。 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
