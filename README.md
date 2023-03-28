@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 weeks ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 month ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 month ago)
@@ -11,10 +12,10 @@
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (4 months ago)
 - [dgjungleP/React_tools](https://github.com/dgjungleP/React_tools) - Some react tools in my work (4 months ago)
 - [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud  (5 months ago)
-- [izachwei/easy-cache](https://github.com/izachwei/easy-cache) - 支持 Springboot，基于注解的、可扩展的、即开即用通用缓存组件 (5 months ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) - 
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) - 
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) - 
 - [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng
@@ -24,7 +25,6 @@
 - [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x.
 - [dgjungleP/startJS](https://github.com/dgjungleP/startJS) - Learn js follow janos
 - [dgjungleP/startWebPack](https://github.com/dgjungleP/startWebPack) - 
-- [dgjungleP/startGitActions](https://github.com/dgjungleP/startGitActions) - 
 
 #### 🔭 Latest releases I've contributed to
 
