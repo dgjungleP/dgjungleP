@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 weeks ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 month ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 month ago)
@@ -42,14 +42,14 @@
 
 #### ⭐ Recent Stars
 
-- [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (today)
-- [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (1 day ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (4 days ago)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (4 days ago)
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (6 days ago)
+- [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (1 day ago)
+- [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (2 days ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (5 days ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (5 days ago)
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (1 week ago)
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack (2 weeks ago)
 - [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (2 weeks ago)
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (3 weeks ago)
+- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (4 weeks ago)
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (4 weeks ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️ (4 weeks ago)
 
