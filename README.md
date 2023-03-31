@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 day ago)
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (2 days ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 weeks ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 month ago)
