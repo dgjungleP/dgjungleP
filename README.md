@@ -42,6 +42,8 @@
 
 #### ⭐ Recent Stars
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (today)
+- [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (today)
 - [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (3 days ago)
 - [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (4 days ago)
 - [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (5 days ago)
@@ -50,8 +52,6 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (1 week ago)
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack (2 weeks ago)
 - [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (3 weeks ago)
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&amp;消费组件  (1 month ago)
-- [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
