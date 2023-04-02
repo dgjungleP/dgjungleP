@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (today)
-- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (3 days ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 day ago)
+- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (4 days ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 weeks ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 month ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 month ago)
@@ -42,11 +42,11 @@
 
 #### ⭐ Recent Stars
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (today)
-- [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (today)
-- [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (3 days ago)
-- [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (4 days ago)
-- [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (5 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (1 day ago)
+- [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (4 days ago)
+- [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (5 days ago)
+- [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (6 days ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (1 week ago)
