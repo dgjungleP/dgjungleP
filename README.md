@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing (today)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (3 days ago)
 - [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (6 days ago)
@@ -51,7 +52,6 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (1 week ago)
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack (3 weeks ago)
-- [gijsroge/tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60&#43;fps parallax tilt hover effect for jQuery.  (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
