@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 day ago)
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (today)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (6 days ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (3 weeks ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 month ago)
@@ -42,6 +42,8 @@
 
 #### ⭐ Recent Stars
 
+- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. (today)
+- [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF 开发者教程与知识库：通过 20 个小工具一步步学习 eBPF（尝试教会 ChatGPT 编写 eBPF 程序） (today)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing (today)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (3 days ago)
@@ -50,8 +52,6 @@
 - [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (1 week ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple &amp; powerful blog framework, powered by Node.js. (1 week ago)
-- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
