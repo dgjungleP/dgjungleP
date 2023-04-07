@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (3 days ago)
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (today)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (3 days ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 week ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (3 weeks ago)
@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer (today)
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (today)
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind. (1 day ago)
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. (3 days ago)
@@ -51,7 +52,6 @@
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (6 days ago)
 - [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (1 week ago)
 - [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (1 week ago)
-- [yudiandemingzi/spring-boot-mybatis-interceptor](https://github.com/yudiandemingzi/spring-boot-mybatis-interceptor) - mybatis自定义主键插件,通过该插件生成分布式唯一雪花ID作为数据库表的主键。 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
