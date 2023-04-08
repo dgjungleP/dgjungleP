@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (today)
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer (1 day ago)
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (1 day ago)
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind. (2 days ago)
@@ -51,7 +52,6 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (1 week ago)
 - [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (1 week ago)
-- [fooying/hexo-theme-xoxo-plus](https://github.com/fooying/hexo-theme-xoxo-plus) - Hexo theme for https://www.fooying.com, modification based on hexo-theme-xoxo (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
