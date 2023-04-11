@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (today)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 day ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 week ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (4 weeks ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (1 month ago)
@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (today)
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced. (today)
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (today)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 days ago)
@@ -51,7 +52,6 @@
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. (1 week ago)
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF 开发者教程与知识库：通过 20 个小工具一步步学习 eBPF（尝试教会 ChatGPT 编写 eBPF 程序） (1 week ago)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing (1 week ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
