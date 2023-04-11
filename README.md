@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (today)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (3 days ago)
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer (4 days ago)
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (4 days ago)
@@ -51,7 +52,6 @@
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing (1 week ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service (1 week ago)
-- [mybatis-mapper/mapper](https://github.com/mybatis-mapper/mapper) - MyBatis Mapper (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
