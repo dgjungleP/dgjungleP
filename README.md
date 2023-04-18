@@ -42,6 +42,8 @@
 
 #### ⭐ Recent Stars
 
+- [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk) - Java SDK for building Kubernetes Operators (today)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [chaitin/safeline](https://github.com/chaitin/safeline) - 长亭科技自研，基于业界领先的语义引擎检测技术，打造的简洁、易用的免费 WAF (4 days ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (6 days ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (6 days ago)
@@ -50,8 +52,6 @@
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (1 week ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [lsk569937453/silverwind](https://github.com/lsk569937453/silverwind) - The High Performance Proxy/Load Balancer (1 week ago)
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. (1 week ago)
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
