@@ -4,7 +4,7 @@
 
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (today)
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (today)
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (2 weeks ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 month ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (2 months ago)
