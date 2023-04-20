@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (today)
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (today)
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 day ago)
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 day ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (3 weeks ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 month ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (2 months ago)
@@ -42,10 +42,10 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights. (today)
-- [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk) - Java SDK for building Kubernetes Operators (1 day ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
-- [chaitin/safeline](https://github.com/chaitin/safeline) - 长亭科技自研，基于业界领先的语义引擎检测技术，打造的简洁、易用的免费 WAF (5 days ago)
+- [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights. (1 day ago)
+- [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk) - Java SDK for building Kubernetes Operators (2 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
+- [chaitin/safeline](https://github.com/chaitin/safeline) - 长亭科技自研，基于业界领先的语义引擎检测技术，打造的简洁、易用的免费 WAF (6 days ago)
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap (1 week ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 week ago)
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (1 week ago)
