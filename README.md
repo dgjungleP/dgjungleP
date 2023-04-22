@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃 (today)
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js (2 days ago)
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights. (3 days ago)
 - [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk) - Java SDK for building Kubernetes Operators (4 days ago)
@@ -51,7 +52,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 week ago)
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (1 week ago)
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced. (1 week ago)
-- [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
