@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js (today)
 - [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development (today)
 - [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 (today)
 - [seaswalker/jdk-sourcecode-analysis](https://github.com/seaswalker/jdk-sourcecode-analysis) - JDK源码阅读笔记  (today)
@@ -51,7 +52,6 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (today)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (today)
 - [AmiasLi/myduct](https://github.com/AmiasLi/myduct) - Automatic MySQL deployment (today)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
