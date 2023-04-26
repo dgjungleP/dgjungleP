@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (today)
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js (1 day ago)
 - [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development (1 day ago)
 - [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 (1 day ago)
@@ -51,7 +52,6 @@
 - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template (1 day ago)
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API (1 day ago)
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App (1 day ago)
-- [AmiasLi/myduct](https://github.com/AmiasLi/myduct) - Automatic MySQL deployment (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
