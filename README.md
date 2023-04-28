@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (today)
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (2 days ago)
+- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 day ago)
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (3 days ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 week ago)
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 week ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (1 month ago)
@@ -42,16 +42,16 @@
 
 #### ⭐ Recent Stars
 
-- [shyamtawli/devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format. (today)
-- [vladmihalcea/flexy-pool](https://github.com/vladmihalcea/flexy-pool) - FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. (today)
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (today)
-- [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。 (today)
-- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (1 day ago)
-- [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js (2 days ago)
-- [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development (2 days ago)
-- [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 (2 days ago)
-- [seaswalker/jdk-sourcecode-analysis](https://github.com/seaswalker/jdk-sourcecode-analysis) - JDK源码阅读笔记  (2 days ago)
-- [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 (2 days ago)
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn&#39;t have to be. (today)
+- [shyamtawli/devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format. (1 day ago)
+- [vladmihalcea/flexy-pool](https://github.com/vladmihalcea/flexy-pool) - FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. (1 day ago)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (1 day ago)
+- [tongcheng-security-team/NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。 (1 day ago)
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. (2 days ago)
+- [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js (3 days ago)
+- [openjdk/jfx](https://github.com/openjdk/jfx) - JavaFX mainline development (3 days ago)
+- [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。 (3 days ago)
+- [seaswalker/jdk-sourcecode-analysis](https://github.com/seaswalker/jdk-sourcecode-analysis) - JDK源码阅读笔记  (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
