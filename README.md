@@ -59,7 +59,7 @@
 #### 👯 Check out some of my recent followers
 
 - [AmiasLi](https://github.com/AmiasLi)
-- [annie-n3](https://github.com/annie-n3)
+- [bl4ckh47G1rl](https://github.com/bl4ckh47G1rl)
 - [david-kariuki](https://github.com/david-kariuki)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
