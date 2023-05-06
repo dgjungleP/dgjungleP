@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [Relph1119/mysql-learning-notes](https://github.com/Relph1119/mysql-learning-notes) - MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/ (today)
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是Appsmith 的中国化项目，基于Appsmith做了整体性能优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架 (today)
 - [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner (today)
 - [ganlvtech/down_52pojie_cn](https://github.com/ganlvtech/down_52pojie_cn) - A single page file explorer that can be hosted on static website. 吾爱破解论坛 爱盘 https://down.52pojie.cn/ 页面的源代码 (1 day ago)
@@ -52,7 +53,6 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (2 days ago)
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more (2 days ago)
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things! (2 days ago)
-- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀 (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
