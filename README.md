@@ -62,8 +62,8 @@
 
 - [AmiasLi](https://github.com/AmiasLi)
 - [bl4ckh47G1rl](https://github.com/bl4ckh47G1rl)
-- [david-kariuki](https://github.com/david-kariuki)
 - [zero-fsc](https://github.com/zero-fsc)
 - [pinhe91](https://github.com/pinhe91)
+- [izachwei](https://github.com/izachwei)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
