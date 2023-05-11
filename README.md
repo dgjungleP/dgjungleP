@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system (today)
 - [casbin/jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java (1 day ago)
 - [dromara/TLog](https://github.com/dromara/TLog) - Lightweight distributed log label tracking framwork (2 days ago)
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool. (2 days ago)
@@ -53,7 +54,6 @@
 - [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers! (2 days ago)
 - [Relph1119/mysql-learning-notes](https://github.com/Relph1119/mysql-learning-notes) - MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/ (5 days ago)
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是Appsmith 的中国化项目，基于Appsmith做了整体性能优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架 (5 days ago)
-- [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
