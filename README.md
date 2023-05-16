@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, and programmable component-based rule engine/process engine. Component reuse, synchronous/asynchronous orchestration, dynamic orchestration, multi-language scripting support, complex nested rules, hot deployment, smooth refreshing. Let you improve your development efficiency! (today)
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun (4 days ago)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system (5 days ago)
 - [casbin/jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java (6 days ago)
@@ -53,7 +54,6 @@
 - [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬 (1 week ago)
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat (1 week ago)
 - [hql287/awesome-free-services](https://github.com/hql287/awesome-free-services) - Awesome free online services for startups and freelancers! (1 week ago)
-- [Relph1119/mysql-learning-notes](https://github.com/Relph1119/mysql-learning-notes) - MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/ (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
