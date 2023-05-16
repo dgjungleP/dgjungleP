@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (today)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (5 days ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) -  (1 week ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 week ago)
@@ -11,10 +12,10 @@
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (3 months ago)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (4 months ago)
 - [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (4 months ago)
-- [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava (6 months ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) - 
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java
 - [dgjungleP/communicate](https://github.com/dgjungleP/communicate) - 
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) - 
@@ -24,7 +25,6 @@
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava
 - [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud 
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools
-- [dgjungleP/How-X-Work](https://github.com/dgjungleP/How-X-Work) - This is the explanation and implement of some processes abut x.
 
 #### 🔭 Latest releases I've contributed to
 
