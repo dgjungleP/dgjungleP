@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (today)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (2 days ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (1 week ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) -  (2 weeks ago)
@@ -11,10 +12,10 @@
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (2 months ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (3 months ago)
 - [dgjungleP/startRust](https://github.com/dgjungleP/startRust) -  (4 months ago)
-- [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng (4 months ago)
 
 #### 🌱 My latest projects
 
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) - 
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) - 
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java
 - [dgjungleP/communicate](https://github.com/dgjungleP/communicate) - 
@@ -24,7 +25,6 @@
 - [dgjungleP/code_challenging](https://github.com/dgjungleP/code_challenging) - Some code challeng
 - [dgjungleP/start_RxJava](https://github.com/dgjungleP/start_RxJava) - Some demo for learning RxJava
 - [dgjungleP/start_SpringCloud](https://github.com/dgjungleP/start_SpringCloud) - Some simple demo for spring cloud 
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools
 
 #### 🔭 Latest releases I've contributed to
 
@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (today)
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM (today)
 - [wandererex/wormhole](https://github.com/wandererex/wormhole) - 内网穿透 (today)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 day ago)
@@ -53,7 +54,6 @@
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal. (1 day ago)
 - [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (1 day ago)
 - [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work. (1 day ago)
-- [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代 (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
