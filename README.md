@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 day ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (2 days ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (1 week ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) -  (2 weeks ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (3 weeks ago)
@@ -33,7 +33,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Add  an animation for contributors increase😁](https://github.com/Raulj123/First-Contribution-/pull/4) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (2 weeks ago)
-- [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (2 weeks ago)
+- [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (3 weeks ago)
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (3 months ago)
 - [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (3 months ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (7 months ago)
@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (today)
-- [arianne/stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel. (today)
-- [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) - 一个全随机的刷装备小游戏 (today)
-- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN (today)
-- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal. (today)
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (today)
-- [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work. (today)
-- [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代 (today)
-- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer &amp; editor (today)
-- [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android (today)
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 day ago)
+- [arianne/stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel. (1 day ago)
+- [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) - 一个全随机的刷装备小游戏 (1 day ago)
+- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN (1 day ago)
+- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal. (1 day ago)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (1 day ago)
+- [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work. (1 day ago)
+- [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代 (1 day ago)
+- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer &amp; editor (1 day ago)
+- [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
