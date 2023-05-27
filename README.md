@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [wandererex/wormhole](https://github.com/wandererex/wormhole) - 内网穿透 (today)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 day ago)
 - [arianne/stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel. (1 day ago)
 - [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) - 一个全随机的刷装备小游戏 (1 day ago)
@@ -53,7 +54,6 @@
 - [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work. (1 day ago)
 - [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代 (1 day ago)
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer &amp; editor (1 day ago)
-- [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
