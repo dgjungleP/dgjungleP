@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [olegsidorchukk](https://github.com/olegsidorchukk)
 - [bezdarniyTip](https://github.com/bezdarniyTip)
 - [Hohlinka](https://github.com/Hohlinka)
 - [AmiasLi](https://github.com/AmiasLi)
 - [V1nni00](https://github.com/V1nni00)
-- [zero-fsc](https://github.com/zero-fsc)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
