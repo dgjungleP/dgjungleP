@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sherledom](https://github.com/sherledom)
+- [sherkopom](https://github.com/sherkopom)
 - [islomankakstekl](https://github.com/islomankakstekl)
 - [hoc4uumeret](https://github.com/hoc4uumeret)
 - [ubeitemenyanahui](https://github.com/ubeitemenyanahui)
-- [yaubitvnutri](https://github.com/yaubitvnutri)
-- [olegsidorchukk](https://github.com/olegsidorchukk)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
