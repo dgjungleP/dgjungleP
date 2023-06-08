@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [mumuy/relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. (today)
 - [mingyuefusu/library_manage_stystem](https://github.com/mingyuefusu/library_manage_stystem) - 使用jsp、layui、mysql完成的图书馆系统，包含用户图书借阅、图书管理员、系统管理员界面，功能齐全 (1 day ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (5 days ago)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (1 week ago)
@@ -53,7 +54,6 @@
 - [arianne/stendhal](https://github.com/arianne/stendhal) - Stendhal is a fun friendly and free multiplayer online adventure game with an old school feel. (1 week ago)
 - [Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game) - 一个全随机的刷装备小游戏 (1 week ago)
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN (1 week ago)
-- [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
