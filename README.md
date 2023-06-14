@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom. (today)
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS (3 days ago)
 - [zero-to-mastery/CSS-Art](https://github.com/zero-to-mastery/CSS-Art) - General Edition - A CSS art challenge, for all skill levels (3 days ago)
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (4 days ago)
@@ -54,7 +55,6 @@
 - [mingyuefusu/library_manage_stystem](https://github.com/mingyuefusu/library_manage_stystem) - 使用jsp、layui、mysql完成的图书馆系统，包含用户图书借阅、图书管理员、系统管理员界面，功能齐全 (1 week ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 week ago)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (2 weeks ago)
-- [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
