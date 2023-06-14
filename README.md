@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 day ago)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (today)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 week ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (3 weeks ago)
-- [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) -  (1 month ago)
+- [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (1 month ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 month ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (1 month ago)
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (1 month ago)
