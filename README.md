@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. (today)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
 - [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom. (1 day ago)
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS (4 days ago)
@@ -54,7 +55,6 @@
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag (1 week ago)
 - [mumuy/relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. (1 week ago)
 - [mingyuefusu/library_manage_stystem](https://github.com/mingyuefusu/library_manage_stystem) - 使用jsp、layui、mysql完成的图书馆系统，包含用户图书借阅、图书管理员、系统管理员界面，功能齐全 (1 week ago)
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
