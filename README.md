@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (2 days ago)
 - [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it. (2 days ago)
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database. (2 days ago)
@@ -54,7 +55,6 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.  (6 days ago)
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. (6 days ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (6 days ago)
-- [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
