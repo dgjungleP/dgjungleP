@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ValeraxD](https://github.com/ValeraxD)
 - [koresssv](https://github.com/koresssv)
 - [kikkossss](https://github.com/kikkossss)
 - [badershm](https://github.com/badershm)
 - [slikikik](https://github.com/slikikik)
-- [sherledom](https://github.com/sherledom)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
