@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [vladimiryakovlevds](https://github.com/vladimiryakovlevds)
 - [kostyaNICH231](https://github.com/kostyaNICH231)
 - [BEPb](https://github.com/BEPb)
 - [ValeraxD](https://github.com/ValeraxD)
 - [koresssv](https://github.com/koresssv)
+- [kikkossss](https://github.com/kikkossss)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
