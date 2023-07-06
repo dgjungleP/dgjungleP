@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (today)
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS. (1 day ago)
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (1 day ago)
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine) (1 day ago)
@@ -54,7 +55,6 @@
 - [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it. (2 weeks ago)
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database. (2 weeks ago)
 - [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解网络、应用网络、ServiceMesh、容器等云原生相关技术。别光Star，好多错误的，给我提PR啊 (2 weeks ago)
-- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
