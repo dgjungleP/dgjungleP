@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (today)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (2 days ago)
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS. (3 days ago)
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (3 days ago)
@@ -54,7 +55,6 @@
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (2 weeks ago)
 - [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it. (2 weeks ago)
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database. (2 weeks ago)
-- [isno/theByteBook](https://github.com/isno/theByteBook) - 深入讲解网络、应用网络、ServiceMesh、容器等云原生相关技术。别光Star，好多错误的，给我提PR啊 (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
