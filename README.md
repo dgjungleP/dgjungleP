@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (2 days ago)
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (3 days ago)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (3 days ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (4 days ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (1 month ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (2 months ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (2 months ago)
@@ -35,7 +35,7 @@
 - [Add  an animation for contributors increase😁](https://github.com/Raulj123/First-Contribution-/pull/4) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (2 months ago)
 - [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (2 months ago)
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (4 months ago)
-- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (4 months ago)
+- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (5 months ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (8 months ago)
 
 
@@ -45,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (today)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (2 days ago)
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS. (3 days ago)
-- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (3 days ago)
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine) (3 days ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 day ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (3 days ago)
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS. (4 days ago)
+- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (4 days ago)
+- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine) (4 days ago)
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (1 week ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (2 weeks ago)
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (2 weeks ago)
