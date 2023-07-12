@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs. (today)
 - [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可用于 AI 绘图、生成界面。 (today)
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort (today)
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run CLIP on iPhone to Search Photos. (1 day ago)
@@ -54,7 +55,6 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (6 days ago)
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS. (1 week ago)
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (1 week ago)
-- [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
