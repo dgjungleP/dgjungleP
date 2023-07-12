@@ -48,7 +48,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs. (today)
 - [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可用于 AI 绘图、生成界面。 (today)
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort (today)
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run CLIP on iPhone to Search Photos. (1 day ago)
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iPhone to Search Photos. (1 day ago)
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools  (1 day ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (1 day ago)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (4 days ago)
