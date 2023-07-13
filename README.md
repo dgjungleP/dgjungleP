@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (today)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 day ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 week ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (1 month ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (2 months ago)
@@ -45,16 +45,16 @@
 
 #### ⭐ Recent Stars
 
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (today)
-- [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可用于 AI 绘图、生成界面。 (today)
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort (today)
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iPhone to search photos. (1 day ago)
-- [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools  (1 day ago)
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (1 day ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (4 days ago)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (6 days ago)
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 day ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 day ago)
+- [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可用于 AI 绘图、生成界面。 (1 day ago)
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort (1 day ago)
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iPhone to search photos. (2 days ago)
+- [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools  (2 days ago)
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (2 days ago)
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (5 days ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 week ago)
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS. (1 week ago)
-- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
