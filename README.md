@@ -45,6 +45,9 @@
 
 #### ⭐ Recent Stars
 
+- [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java. (today)
+- [fanyong920/jvppeteer](https://github.com/fanyong920/jvppeteer) - Headless Chrome For Java （Java 爬虫） (today)
+- [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合 (today)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (today)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (3 days ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (3 days ago)
@@ -52,9 +55,6 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort (3 days ago)
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iPhone to search photos. (4 days ago)
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) - 🎁 generate beautiful landing pages for your developer tools  (4 days ago)
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (4 days ago)
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree (1 week ago)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
