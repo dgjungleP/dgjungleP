@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (today)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone (3 days ago)
 - [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more (3 days ago)
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocke.chat (3 days ago)
@@ -54,7 +55,6 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (6 days ago)
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 week ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 week ago)
-- [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可结合 AI 绘图、生成界面。 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
