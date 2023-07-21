@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [mannprerak2/putaway](https://github.com/mannprerak2/putaway) - A chrome extension to save Tabs and Sessions as Bookmarks (Made with Svelte) (today)
+- [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools. (today)
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (today)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone (3 days ago)
 - [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more (3 days ago)
@@ -53,8 +55,6 @@
 - [fanyong920/jvppeteer](https://github.com/fanyong920/jvppeteer) - Headless Chrome For Java （Java 爬虫） (6 days ago)
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合 (6 days ago)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers. (6 days ago)
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor (1 week ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
