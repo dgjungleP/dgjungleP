@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 day ago)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (2 days ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 week ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (3 weeks ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (2 months ago)
@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ  (1 day ago)
-- [mannprerak2/putaway](https://github.com/mannprerak2/putaway) - A chrome extension to save Tabs and Sessions as Bookmarks (Made with Svelte) (6 days ago)
-- [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools. (6 days ago)
-- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (6 days ago)
+- [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ  (2 days ago)
+- [mannprerak2/putaway](https://github.com/mannprerak2/putaway) - A chrome extension to save Tabs and Sessions as Bookmarks (Made with Svelte) (1 week ago)
+- [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools. (1 week ago)
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业 (1 week ago)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone (1 week ago)
 - [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more (1 week ago)
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocke.chat (1 week ago)
