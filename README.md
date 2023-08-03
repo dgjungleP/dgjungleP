@@ -45,16 +45,16 @@
 
 #### ⭐ Recent Stars
 
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (5 days ago)
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (5 days ago)
-- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (5 days ago)
-- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (5 days ago)
-- [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 (5 days ago)
-- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. (5 days ago)
-- [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is one mini database, helping developers to learn how database works.  (5 days ago)
-- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. (5 days ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (today)
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (6 days ago)
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (6 days ago)
+- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (6 days ago)
+- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (6 days ago)
+- [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 (6 days ago)
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. (6 days ago)
+- [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is one mini database, helping developers to learn how database works.  (6 days ago)
+- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. (6 days ago)
 - [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ  (1 week ago)
-- [mannprerak2/putaway](https://github.com/mannprerak2/putaway) - A chrome extension to save Tabs and Sessions as Bookmarks (Made with Svelte) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
