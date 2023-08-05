@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 week ago)
-- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (2 weeks ago)
+- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (3 weeks ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 month ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (2 months ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (2 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 day ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (2 days ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 week ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 week ago)
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 week ago)
