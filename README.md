@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (2 days ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (3 days ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 week ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 week ago)
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 week ago)
