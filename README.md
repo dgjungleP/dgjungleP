@@ -35,7 +35,7 @@
 - [Add  an animation for contributors increase😁](https://github.com/Raulj123/First-Contribution-/pull/4) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (3 months ago)
 - [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (3 months ago)
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (5 months ago)
-- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (5 months ago)
+- [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (6 months ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (9 months ago)
 
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (4 days ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (5 days ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 week ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 week ago)
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 week ago)
