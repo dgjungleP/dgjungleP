@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 week ago)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (2 weeks ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (3 weeks ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (1 month ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (2 months ago)
@@ -41,11 +41,12 @@
 
 #### 📓 Gists I wrote
 
-- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (1 month ago)
+- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (5 days ago)
+- [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (today)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (6 days ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 week ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 week ago)
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 week ago)
@@ -54,7 +55,6 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. (1 week ago)
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is one mini database, helping developers to learn how database works.  (1 week ago)
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. (1 week ago)
-- [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
