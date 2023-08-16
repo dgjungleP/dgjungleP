@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (today)
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (1 week ago)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 week ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (2 weeks ago)
@@ -54,7 +55,6 @@
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 (2 weeks ago)
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. (2 weeks ago)
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is one mini database, helping developers to learn how database works.  (2 weeks ago)
-- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
