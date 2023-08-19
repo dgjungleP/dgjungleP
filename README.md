@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (2 days ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (3 days ago)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (3 weeks ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 month ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (3 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (2 days ago)
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (3 days ago)
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (1 week ago)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (2 weeks ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (3 weeks ago)
