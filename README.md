@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (today)
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (4 days ago)
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (2 weeks ago)
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (3 weeks ago)
@@ -54,7 +55,6 @@
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 month ago)
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (1 month ago)
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 (1 month ago)
-- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
