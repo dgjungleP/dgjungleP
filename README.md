@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (2 weeks ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (today)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 month ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 month ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (3 months ago)
@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie (today)
+- [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (today)
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (today)
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (4 days ago)
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (2 weeks ago)
@@ -53,8 +55,6 @@
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 month ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 month ago)
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 month ago)
-- [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game. (1 month ago)
-- [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
