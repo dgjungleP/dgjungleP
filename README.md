@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (today)
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie (2 days ago)
 - [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (2 days ago)
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (2 days ago)
@@ -54,7 +55,6 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (4 weeks ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 month ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 month ago)
-- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
