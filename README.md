@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (2 days ago)
+- [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (3 days ago)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 month ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 month ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (3 months ago)
@@ -45,14 +45,14 @@
 
 #### ⭐ Recent Stars
 
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (today)
-- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie (2 days ago)
-- [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (2 days ago)
-- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (2 days ago)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (6 days ago)
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (1 day ago)
+- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie (3 days ago)
+- [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (3 days ago)
+- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (3 days ago)
+- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (1 week ago)
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (2 weeks ago)
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (3 weeks ago)
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (4 weeks ago)
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 month ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 month ago)
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 month ago)
 
