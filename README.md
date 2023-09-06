@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~ (today)
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (5 days ago)
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie (1 week ago)
 - [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (1 week ago)
@@ -54,7 +55,6 @@
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (4 weeks ago)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 month ago)
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 month ago)
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
