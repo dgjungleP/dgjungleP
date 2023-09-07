@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform (today)
 - [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~ (1 day ago)
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (6 days ago)
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie (1 week ago)
@@ -54,7 +55,6 @@
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (3 weeks ago)
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (4 weeks ago)
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 month ago)
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
