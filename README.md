@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (today)
+- [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (today)
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform (6 days ago)
 - [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~ (1 week ago)
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work! (1 week ago)
@@ -53,8 +55,6 @@
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (2 weeks ago)
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (2 weeks ago)
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (4 weeks ago)
-- [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (1 month ago)
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
