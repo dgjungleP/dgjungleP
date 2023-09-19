@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (today)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (6 days ago)
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (6 days ago)
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform (1 week ago)
@@ -54,7 +55,6 @@
 - [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (2 weeks ago)
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (2 weeks ago)
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (3 weeks ago)
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
