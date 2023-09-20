@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (today)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (1 day ago)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (1 week ago)
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (1 week ago)
@@ -54,7 +55,6 @@
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie. (3 weeks ago)
 - [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (3 weeks ago)
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (3 weeks ago)
-- [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
