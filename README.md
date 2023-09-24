@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (3 weeks ago)
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 month ago)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (2 months ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (2 months ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (4 months ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (4 months ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (3 days ago)
-- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (4 days ago)
+- [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (4 days ago)
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (5 days ago)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (1 week ago)
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (1 week ago)
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform (2 weeks ago)
