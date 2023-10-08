@@ -41,11 +41,11 @@
 
 #### 📓 Gists I wrote
 
-- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (3 months ago)
+- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。 (1 week ago)
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。 (2 weeks ago)
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (2 weeks ago)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (2 weeks ago)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (3 weeks ago)
