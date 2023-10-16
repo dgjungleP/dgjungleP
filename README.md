@@ -9,7 +9,7 @@
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (5 months ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (5 months ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (5 months ago)
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (5 months ago)
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (6 months ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (7 months ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (8 months ago)
 
