@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (today)
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。 (3 weeks ago)
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (4 weeks ago)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (4 weeks ago)
@@ -54,7 +55,6 @@
 - [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~ (1 month ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (1 month ago)
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie. (1 month ago)
-- [JCXTB/TrueLicense](https://github.com/JCXTB/TrueLicense) - SpringBoot 整合 TrueLicense 实现 License 的授权与服务器许可 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
