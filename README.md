@@ -36,7 +36,7 @@
 - [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (5 months ago)
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (8 months ago)
 - [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (8 months ago)
-- [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (11 months ago)
+- [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (1 year ago)
 
 
 #### 📓 Gists I wrote
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (4 days ago)
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (5 days ago)
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。 (4 weeks ago)
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (1 month ago)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (1 month ago)
