@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (6 days ago)
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (1 week ago)
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。 (1 month ago)
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (1 month ago)
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (1 month ago)
