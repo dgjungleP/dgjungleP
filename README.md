@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (today)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (4 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability augmented with actionable insights (5 days ago)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (1 week ago)
@@ -53,7 +54,6 @@
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (1 month ago)
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (1 month ago)
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform (1 month ago)
-- [rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter) - 资产狩猎框架-AssetsHunter，信息收集是一项艺术~ (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
