@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (today)
 - [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (1 day ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (5 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability augmented with actionable insights (6 days ago)
@@ -53,7 +54,6 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 (1 month ago)
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System (1 month ago)
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.  (1 month ago)
-- [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
