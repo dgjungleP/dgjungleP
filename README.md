@@ -32,7 +32,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Add  an animation for contributors increase😁](https://github.com/Raulj123/First-Contribution-/pull/4) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (5 months ago)
-- [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (5 months ago)
+- [add contributors](https://github.com/Raulj123/First-Contribution-/pull/3) on [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) (6 months ago)
 - [Start change some style](https://github.com/dgjungleP/jokrs/pull/2) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (8 months ago)
 - [update Security](https://github.com/dgjungleP/jokrs/pull/1) on [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) (8 months ago)
 - [add .ignore file ](https://github.com/izachwei/easy-cache/pull/2) on [izachwei/easy-cache](https://github.com/izachwei/easy-cache) (1 year ago)
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (today)
-- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (1 day ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (5 days ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability augmented with actionable insights (6 days ago)
+- [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (1 day ago)
+- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (2 days ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (6 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability augmented with actionable insights (1 week ago)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (2 weeks ago)
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。 (1 month ago)
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. (1 month ago)
