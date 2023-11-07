@@ -40,12 +40,12 @@
 
 #### 📓 Gists I wrote
 
-- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (4 months ago)
+- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (5 days ago)
-- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (6 days ago)
+- [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (6 days ago)
+- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (1 week ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability augmented with actionable insights (1 week ago)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (2 weeks ago)
