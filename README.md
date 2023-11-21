@@ -8,7 +8,7 @@
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (6 months ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (6 months ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (6 months ago)
-- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (6 months ago)
+- [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (7 months ago)
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (7 months ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (8 months ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (9 months ago)
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (2 weeks ago)
-- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (2 weeks ago)
+- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (3 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (3 weeks ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (3 weeks ago)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js (1 month ago)
