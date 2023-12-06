@@ -6,7 +6,7 @@
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (4 months ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (4 months ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (6 months ago)
-- [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! I would greatly appreciate it if you could give a star to my project ⭐ (7 months ago)
+- [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! ⭐ (7 months ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (7 months ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (7 months ago)
 - [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (7 months ago)
