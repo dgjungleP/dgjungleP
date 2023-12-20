@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Jdmbs](https://github.com/Jdmbs)
 - [fanksin](https://github.com/fanksin)
 - [SWxEng](https://github.com/SWxEng)
 - [AmiasLi](https://github.com/AmiasLi)
 - [V1nni00](https://github.com/V1nni00)
-- [zero-fsc](https://github.com/zero-fsc)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
