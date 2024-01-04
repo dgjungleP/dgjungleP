@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (today)
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (4 days ago)
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (4 days ago)
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -  (4 days ago)
@@ -53,7 +54,6 @@
 - [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (2 months ago)
 - [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (2 months ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 months ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
