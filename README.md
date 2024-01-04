@@ -44,6 +44,8 @@
 
 #### ⭐ Recent Stars
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Desktop app beta: https://mintplexlabs.typeform.com/to/sFgD2TIb (today)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. (today)
 - [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (today)
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (4 days ago)
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (4 days ago)
@@ -52,8 +54,6 @@
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (3 weeks ago)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI). (1 month ago)
 - [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers. (2 months ago)
-- [clickvote/clickvote](https://github.com/clickvote/clickvote) - Add upvotes, likes, and reviews to any context ⭐️ (2 months ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
