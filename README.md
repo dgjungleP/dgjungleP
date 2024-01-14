@@ -9,7 +9,7 @@
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! ⭐ (8 months ago)
 - [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (8 months ago)
 - [dgjungleP/HandBook-For-X](https://github.com/dgjungleP/HandBook-For-X) - Some handbook for use develop tools (8 months ago)
-- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (8 months ago)
+- [dgjungleP/100days-code-round1](https://github.com/dgjungleP/100days-code-round1) - 100 days code challenge for java (9 months ago)
 - [dgjungleP/startChrome](https://github.com/dgjungleP/startChrome) -  (10 months ago)
 - [dgjungleP/jokrs](https://github.com/dgjungleP/jokrs) -  (11 months ago)
 
@@ -44,13 +44,13 @@
 
 #### ⭐ Recent Stars
 
-- [THMAIL/nvwaGroupController](https://github.com/THMAIL/nvwaGroupController) - 女娲群控，局域网内手机控制工具，所有系统版本免root (2 days ago)
+- [THMAIL/nvwaGroupController](https://github.com/THMAIL/nvwaGroupController) - 女娲群控，局域网内手机控制工具，所有系统版本免root (3 days ago)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. (1 week ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. (1 week ago)
 - [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (1 week ago)
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (1 week ago)
-- [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (1 week ago)
-- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -  (1 week ago)
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (2 weeks ago)
+- [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (2 weeks ago)
+- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -  (2 weeks ago)
 - [TophantTechnology/ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 (2 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (1 month ago)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI). (1 month ago)
