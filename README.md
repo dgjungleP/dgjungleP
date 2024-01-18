@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [THMAIL/nvwaGroupController](https://github.com/THMAIL/nvwaGroupController) - 女娲群控，局域网内手机控制工具，所有系统版本免root (6 days ago)
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. (1 week ago)
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. (1 week ago)
-- [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (1 week ago)
+- [THMAIL/nvwaGroupController](https://github.com/THMAIL/nvwaGroupController) - 女娲群控，局域网内手机控制工具，所有系统版本免root (1 week ago)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. (2 weeks ago)
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. (2 weeks ago)
+- [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (2 weeks ago)
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (2 weeks ago)
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (2 weeks ago)
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -  (2 weeks ago)
