@@ -51,7 +51,7 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (3 weeks ago)
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (3 weeks ago)
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -  (3 weeks ago)
-- [TophantTechnology/ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 (3 weeks ago)
+- [TophantTechnology/ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 (4 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (1 month ago)
 - [dromara/dynamic-tp](https://github.com/dromara/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI). (1 month ago)
 
