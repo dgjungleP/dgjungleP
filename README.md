@@ -40,7 +40,7 @@
 
 #### 📓 Gists I wrote
 
-- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (7 months ago)
+- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (8 months ago)
 
 #### ⭐ Recent Stars
 
