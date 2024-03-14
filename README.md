@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions (today)
 - [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM (1 day ago)
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io (1 week ago)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! (1 week ago)
@@ -52,7 +53,6 @@
 - [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (2 months ago)
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (2 months ago)
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) -  (2 months ago)
-- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
