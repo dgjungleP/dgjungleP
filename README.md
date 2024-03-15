@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [cryptag/leapchat](https://github.com/cryptag/leapchat) - Ephemeral, encrypted, in-browser chat rooms (today)
 - [fvarrui/JavaPackager](https://github.com/fvarrui/JavaPackager) - :package: Gradle/Maven plugin to package Java applications as native Windows, MacOS, or Linux executables and create installers for them. (today)
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions (1 day ago)
 - [lsieun/learn-java-asm](https://github.com/lsieun/learn-java-asm) - :bug: Java ASM (2 days ago)
@@ -52,7 +53,6 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application! (2 months ago)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. (2 months ago)
 - [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) - A platform adaptive Flutter app for desktop, mobile and web. (2 months ago)
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
