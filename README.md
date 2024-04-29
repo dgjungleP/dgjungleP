@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (1 day ago)
+- [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (2 days ago)
 - [Ocyss/boos-helper](https://github.com/Ocyss/boos-helper) - Boss直聘助手-优化UI去除广告,批量投递简历,高级筛选,GPT自动打招呼,多账号管理... (1 week ago)
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com (1 month ago)
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet (1 month ago)
