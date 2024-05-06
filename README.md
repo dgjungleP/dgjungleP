@@ -7,7 +7,6 @@
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (9 months ago)
 - [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (11 months ago)
 - [Raulj123/First-Contribution-](https://github.com/Raulj123/First-Contribution-) - Get started with open source! ⭐ (1 year ago)
-- [dgjungleP/rx-task](https://github.com/dgjungleP/rx-task) -  (1 year ago)
 
 #### 🌱 My latest projects
 
