@@ -56,8 +56,8 @@
 
 - [warmice71](https://github.com/warmice71)
 - [Jdmbs](https://github.com/Jdmbs)
-- [fanksin](https://github.com/fanksin)
 - [SWxEng](https://github.com/SWxEng)
 - [AmiasLi](https://github.com/AmiasLi)
+- [V1nni00](https://github.com/V1nni00)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
