@@ -5,7 +5,6 @@
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (5 months ago)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (9 months ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (10 months ago)
-- [dgjungleP/canvans-utils](https://github.com/dgjungleP/canvans-utils) -  (1 year ago)
 
 #### 🌱 My latest projects
 
