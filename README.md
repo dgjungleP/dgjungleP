@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (5 months ago)
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (9 months ago)
+- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (10 months ago)
 - [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (10 months ago)
 
 #### 🌱 My latest projects
@@ -37,15 +37,15 @@
 
 #### ⭐ Recent Stars
 
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (today)
-- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for &#34;Zero To Production In Rust&#34;, a book on API development using Rust. (today)
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (today)
-- [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension (today)
-- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (today)
-- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by  (today)
-- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component. (today)
-- [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system (today)
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first. (today)
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure. (1 day ago)
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for &#34;Zero To Production In Rust&#34;, a book on API development using Rust. (1 day ago)
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (1 day ago)
+- [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension (1 day ago)
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (1 day ago)
+- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by  (1 day ago)
+- [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component. (1 day ago)
+- [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system (1 day ago)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first. (1 day ago)
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
