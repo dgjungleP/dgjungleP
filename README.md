@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. (today)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production (3 days ago)
 - [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server (3 days ago)
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java (3 days ago)
@@ -46,7 +47,6 @@
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for &#34;Zero To Production In Rust&#34;, a book on API development using Rust. (2 weeks ago)
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (2 weeks ago)
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension (2 weeks ago)
-- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
