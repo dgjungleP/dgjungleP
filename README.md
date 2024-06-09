@@ -4,7 +4,7 @@
 
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (6 months ago)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (10 months ago)
-- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (10 months ago)
+- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent Stars
 
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (3 days ago)
-- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. (4 days ago)
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (4 days ago)
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. (5 days ago)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production (1 week ago)
 - [synesthesiam/opentts](https://github.com/synesthesiam/opentts) - Open Text to Speech Server (1 week ago)
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java (1 week ago)
