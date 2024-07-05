@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (today)
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (today)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (3 days ago)
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (4 days ago)
@@ -46,7 +47,6 @@
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (2 weeks ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (2 weeks ago)
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！ (3 weeks ago)
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
