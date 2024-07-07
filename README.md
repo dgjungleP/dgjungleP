@@ -37,13 +37,13 @@
 
 #### ⭐ Recent Stars
 
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (1 day ago)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (1 day ago)
-- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (1 day ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (4 days ago)
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (5 days ago)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (5 days ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (5 days ago)
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (2 days ago)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (2 days ago)
+- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (2 days ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (5 days ago)
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (6 days ago)
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (6 days ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (6 days ago)
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database. (1 week ago)
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (2 weeks ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (2 weeks ago)
