@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (today)
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (3 days ago)
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (3 days ago)
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (3 days ago)
@@ -46,7 +47,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database. (1 week ago)
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (2 weeks ago)
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
