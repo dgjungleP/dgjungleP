@@ -4,7 +4,7 @@
 
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (7 months ago)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (11 months ago)
-- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (11 months ago)
+- [dgjungleP/jungle_tools](https://github.com/dgjungleP/jungle_tools) - Some tools in my work (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -37,11 +37,11 @@
 
 #### ⭐ Recent Stars
 
-- [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (today)
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (3 days ago)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (3 days ago)
-- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (3 days ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (6 days ago)
+- [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (1 day ago)
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (4 days ago)
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (4 days ago)
+- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (4 days ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (1 week ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 week ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
