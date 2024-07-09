@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board (today)
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. (today)
 - [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (1 day ago)
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (4 days ago)
@@ -46,7 +47,6 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (1 week ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 week ago)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 week ago)
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
