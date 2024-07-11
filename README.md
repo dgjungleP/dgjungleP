@@ -37,6 +37,8 @@
 
 #### ⭐ Recent Stars
 
+- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template (today)
+- [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. (today)
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (today)
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (2 days ago)
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board (2 days ago)
@@ -45,8 +47,6 @@
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (6 days ago)
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (6 days ago)
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (6 days ago)
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/ (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
