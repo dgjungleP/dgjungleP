@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js (today)
 - [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template (today)
 - [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. (today)
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (today)
@@ -46,7 +47,6 @@
 - [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (3 days ago)
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (6 days ago)
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (6 days ago)
-- [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual&#39;s server (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
