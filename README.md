@@ -37,16 +37,16 @@
 
 #### ⭐ Recent Stars
 
-- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js (today)
-- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template (today)
-- [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. (today)
-- [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (today)
-- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (2 days ago)
-- [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board (2 days ago)
-- [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. (2 days ago)
-- [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (3 days ago)
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (6 days ago)
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily (6 days ago)
+- [cloudinary-community/imgto.xyz](https://github.com/cloudinary-community/imgto.xyz) - Image optimizer powered by Next.js &amp; Cloudinary (today)
+- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js (1 day ago)
+- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template (1 day ago)
+- [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. (1 day ago)
+- [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend (1 day ago)
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. (3 days ago)
+- [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board (3 days ago)
+- [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead. (3 days ago)
+- [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - 4,000&#43; Open Source Beautiful React Icons (4 days ago)
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
