@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity (today)
 - [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials. (1 day ago)
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 day ago)
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need. (1 day ago)
@@ -46,7 +47,6 @@
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag &amp; drop event calendar in JavaScript (4 days ago)
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer. (1 week ago)
 - [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。 (1 week ago)
-- [cloudinary-community/imgto.xyz](https://github.com/cloudinary-community/imgto.xyz) - Image optimizer powered by Next.js &amp; Cloudinary (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
