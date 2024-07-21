@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (3 days ago)
+- [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (4 days ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (7 months ago)
 - [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 year ago)
 
@@ -37,15 +37,15 @@
 
 #### ⭐ Recent Stars
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (today)
-- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity (today)
-- [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials. (1 day ago)
-- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 day ago)
-- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need. (1 day ago)
-- [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node (2 days ago)
-- [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 (2 days ago)
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user&#39;s focus across the page (3 days ago)
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag &amp; drop event calendar in JavaScript (4 days ago)
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 day ago)
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity (1 day ago)
+- [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials. (2 days ago)
+- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (2 days ago)
+- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need. (2 days ago)
+- [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node (3 days ago)
+- [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 (3 days ago)
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user&#39;s focus across the page (4 days ago)
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag &amp; drop event calendar in JavaScript (5 days ago)
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
