@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules (today)
 - [battcn/wemirr-platform](https://github.com/battcn/wemirr-platform) - 最优秀、最简单、最漂亮的开源SAAS、多租户、SpringCloud、Mysql、Mybatis-Plus、Spring Cloud Alibaba 、Oauth2.0 、有BUG第一时间修复 (4 days ago)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (6 days ago)
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity (6 days ago)
@@ -46,7 +47,6 @@
 - [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node (1 week ago)
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 (1 week ago)
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user&#39;s focus across the page (1 week ago)
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag &amp; drop event calendar in JavaScript (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
