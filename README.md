@@ -4,7 +4,6 @@
 
 - [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (1 week ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (7 months ago)
-- [dgjungleP/HomeWorker](https://github.com/dgjungleP/HomeWorker) -  (1 year ago)
 
 #### 🌱 My latest projects
 
