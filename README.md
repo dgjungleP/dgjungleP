@@ -36,6 +36,9 @@
 
 #### ⭐ Recent Stars
 
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (today)
+- [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program. (today)
+- [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards (today)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (4 days ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (4 days ago)
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules (4 days ago)
@@ -43,9 +46,6 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 week ago)
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity (1 week ago)
 - [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials. (1 week ago)
-- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 week ago)
-- [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need. (1 week ago)
-- [pouchdb/pouchdb-server](https://github.com/pouchdb/pouchdb-server) - CouchDB-compatible server built on PouchDB and Node (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
