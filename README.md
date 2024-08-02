@@ -52,10 +52,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [yebei199](https://github.com/yebei199)
 - [Eshaal99](https://github.com/Eshaal99)
 - [warmice71](https://github.com/warmice71)
 - [Jdmbs](https://github.com/Jdmbs)
 - [SWxEng](https://github.com/SWxEng)
-- [AmiasLi](https://github.com/AmiasLi)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
