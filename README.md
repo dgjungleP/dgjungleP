@@ -36,11 +36,11 @@
 
 #### ⭐ Recent Stars
 
-- [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (3 days ago)
-- [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (3 days ago)
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (6 days ago)
-- [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program. (6 days ago)
-- [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards (6 days ago)
+- [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (4 days ago)
+- [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (4 days ago)
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (1 week ago)
+- [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program. (1 week ago)
+- [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards (1 week ago)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules (1 week ago)
