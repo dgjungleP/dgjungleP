@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (2 weeks ago)
+- [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (3 weeks ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -36,9 +36,9 @@
 
 #### ⭐ Recent Stars
 
-- [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (today)
-- [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (4 days ago)
-- [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (4 days ago)
+- [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (1 day ago)
+- [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (5 days ago)
+- [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (5 days ago)
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (1 week ago)
 - [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program. (1 week ago)
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards (1 week ago)
