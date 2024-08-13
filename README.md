@@ -36,14 +36,14 @@
 
 #### ⭐ Recent Stars
 
-- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (5 days ago)
-- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (5 days ago)
-- [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (6 days ago)
+- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (6 days ago)
+- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (6 days ago)
+- [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (1 week ago)
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (1 week ago)
 - [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (1 week ago)
-- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (1 week ago)
-- [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program. (1 week ago)
-- [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards (1 week ago)
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host. (2 weeks ago)
+- [Gnucash/gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program. (2 weeks ago)
+- [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards (2 weeks ago)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (2 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
 
