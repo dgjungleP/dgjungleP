@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (3 weeks ago)
+- [dgjungleP/yawltech_home](https://github.com/dgjungleP/yawltech_home) -  (4 weeks ago)
 - [dgjungleP/dgjungleP.github.io](https://github.com/dgjungleP/dgjungleP.github.io) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -36,8 +36,8 @@
 
 #### ⭐ Recent Stars
 
-- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (6 days ago)
-- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (6 days ago)
+- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (1 week ago)
+- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (1 week ago)
 - [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (1 week ago)
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (1 week ago)
 - [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (1 week ago)
