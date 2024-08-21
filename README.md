@@ -36,10 +36,10 @@
 
 #### ⭐ Recent Stars
 
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management (1 day ago)
-- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (1 day ago)
-- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (1 week ago)
-- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (1 week ago)
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management (2 days ago)
+- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (2 days ago)
+- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (2 weeks ago)
+- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (2 weeks ago)
 - [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (2 weeks ago)
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (2 weeks ago)
 - [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (2 weeks ago)
