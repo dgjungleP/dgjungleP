@@ -36,8 +36,8 @@
 
 #### ⭐ Recent Stars
 
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management (5 days ago)
-- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (5 days ago)
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management (6 days ago)
+- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (6 days ago)
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (2 weeks ago)
 - [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (2 weeks ago)
 - [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (2 weeks ago)
