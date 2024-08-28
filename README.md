@@ -36,12 +36,12 @@
 
 #### ⭐ Recent Stars
 
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (1 day ago)
-- [RSurya99/nefa](https://github.com/RSurya99/nefa) - Free landing page template built using nuxt and tailwindcss (1 day ago)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (2 days ago)
+- [RSurya99/nefa](https://github.com/RSurya99/nefa) - Free landing page template built using nuxt and tailwindcss (2 days ago)
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management (1 week ago)
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (1 week ago)
-- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (2 weeks ago)
-- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (2 weeks ago)
+- [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles (3 weeks ago)
+- [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React. (3 weeks ago)
 - [odiszapc/nginx-java-parser](https://github.com/odiszapc/nginx-java-parser) - Nginx configuration parser based on ANTLR4 grammar (3 weeks ago)
 - [PButcher/flipdown](https://github.com/PButcher/flipdown) - ⏰ A lightweight and performant flip styled countdown clock (3 weeks ago)
 - [yebei199/meow-memorizing](https://github.com/yebei199/meow-memorizing) - 记单词小插件 (3 weeks ago)
