@@ -36,9 +36,9 @@
 
 #### ⭐ Recent Stars
 
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (today)
-- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well (today)
-- [iAmCorey/chrome-extension-plasmo-template](https://github.com/iAmCorey/chrome-extension-plasmo-template) - A chrome extension template using plasmo, tailwind css, shadcn/ui (6 days ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (1 day ago)
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well (1 day ago)
+- [iAmCorey/chrome-extension-plasmo-template](https://github.com/iAmCorey/chrome-extension-plasmo-template) - A chrome extension template using plasmo, tailwind css, shadcn/ui (1 week ago)
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx (1 week ago)
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian (1 week ago)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (1 week ago)
