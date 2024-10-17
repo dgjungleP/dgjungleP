@@ -36,6 +36,7 @@
 
 #### ⭐ Recent Stars
 
+- [aizuda/snail-job](https://github.com/aizuda/snail-job) - 🔥🔥🔥 灵活，可靠和快速的分布式任务重试和分布式任务调度平台 (today)
 - [eleme/morjs](https://github.com/eleme/morjs) - 基于小程序 DSL（微信、支付宝）的，可扩展的多端研发框架，支持一键将微信或支付宝小程序转换为微信、支付宝、百度、字节、QQ、快手、淘宝、钉钉等小程序 或 Web 应用。 (2 days ago)
 - [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates. (5 days ago)
 - [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. (1 week ago)
@@ -45,7 +46,6 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. (1 week ago)
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well (1 week ago)
 - [iAmCorey/chrome-extension-plasmo-template](https://github.com/iAmCorey/chrome-extension-plasmo-template) - A chrome extension template using plasmo, tailwind css, shadcn/ui (2 weeks ago)
-- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
