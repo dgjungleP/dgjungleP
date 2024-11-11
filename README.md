@@ -52,10 +52,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [idimetrix](https://github.com/idimetrix)
 - [Connor9994](https://github.com/Connor9994)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [yebei199](https://github.com/yebei199)
-- [Eshaal99](https://github.com/Eshaal99)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
