@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (today)
+- [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (1 day ago)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (1 week ago)
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Free, open-source no-code web data extraction platform ✨ [In Beta] (1 week ago)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (2 weeks ago)
