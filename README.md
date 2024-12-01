@@ -32,12 +32,12 @@
 
 #### 📓 Gists I wrote
 
-- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (1 year ago)
+- [Pokemon Card Holo Effect](https://gist.github.com/5870cd3bb091268b3485debc5f3cec36) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (1 day ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 day ago)
+- [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (2 days ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 days ago)
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 (1 week ago)
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction. (2 weeks ago)
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (2 weeks ago)
