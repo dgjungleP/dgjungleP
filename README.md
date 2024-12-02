@@ -36,14 +36,14 @@
 
 #### ⭐ Recent Stars
 
-- [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui) -  (today)
-- [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (2 days ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 days ago)
+- [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui) -  (1 day ago)
+- [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (3 days ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (3 days ago)
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 (1 week ago)
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction. (2 weeks ago)
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (2 weeks ago)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (3 weeks ago)
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta] (3 weeks ago)
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta] (4 weeks ago)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (1 month ago)
 - [diandian18/react-antd-console](https://github.com/diandian18/react-antd-console) - Customizable admin dashboard template based on React 18&#43; and Ant Design 5&#43; (1 month ago)
 
