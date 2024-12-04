@@ -36,6 +36,7 @@
 
 #### ⭐ Recent Stars
 
+- [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) - CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. (today)
 - [damien-schneider/cuicui](https://github.com/damien-schneider/cuicui) - CuiCui is a collection of high-quality, reusable components designed to streamline the development of your web applications. With a focus on providing essential UI elements, pre-built blocks, and templates, CuiCui enables you to quickly and effortlessly create professional-grade websites and SaaS platforms featuring top-notch user interfaces. (1 day ago)
 - [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui) -  (3 days ago)
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (5 days ago)
@@ -45,7 +46,6 @@
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (3 weeks ago)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. (4 weeks ago)
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! (1 month ago)
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
