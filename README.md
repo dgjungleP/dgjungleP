@@ -36,6 +36,7 @@
 
 #### ⭐ Recent Stars
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (today)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (1 day ago)
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 day ago)
 - [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) - CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. (3 days ago)
@@ -45,7 +46,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 (2 weeks ago)
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction. (3 weeks ago)
-- [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
