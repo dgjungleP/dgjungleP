@@ -36,11 +36,11 @@
 
 #### ⭐ Recent Stars
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 day ago)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (2 days ago)
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (2 days ago)
-- [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) - CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. (4 days ago)
-- [damien-schneider/cuicui](https://github.com/damien-schneider/cuicui) - CuiCui is a collection of high-quality, reusable components designed to streamline the development of your web applications. With a focus on providing essential UI elements, pre-built blocks, and templates, CuiCui enables you to quickly and effortlessly create professional-grade websites and SaaS platforms featuring top-notch user interfaces. (5 days ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (2 days ago)
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (3 days ago)
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (3 days ago)
+- [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) - CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. (5 days ago)
+- [damien-schneider/cuicui](https://github.com/damien-schneider/cuicui) - CuiCui is a collection of high-quality, reusable components designed to streamline the development of your web applications. With a focus on providing essential UI elements, pre-built blocks, and templates, CuiCui enables you to quickly and effortlessly create professional-grade websites and SaaS platforms featuring top-notch user interfaces. (6 days ago)
 - [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui) -  (1 week ago)
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
