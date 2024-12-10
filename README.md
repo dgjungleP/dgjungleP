@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (today)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (3 days ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (4 days ago)
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (4 days ago)
@@ -44,7 +45,6 @@
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 (2 weeks ago)
-- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
