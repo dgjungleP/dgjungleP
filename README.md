@@ -35,6 +35,8 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (today)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (today)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (2 days ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (5 days ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (6 days ago)
@@ -43,8 +45,6 @@
 - [damien-schneider/cuicui](https://github.com/damien-schneider/cuicui) - CuiCui is a collection of high-quality, reusable components designed to streamline the development of your web applications. With a focus on providing essential UI elements, pre-built blocks, and templates, CuiCui enables you to quickly and effortlessly create professional-grade websites and SaaS platforms featuring top-notch user interfaces. (1 week ago)
 - [safak/next-dashboard-ui](https://github.com/safak/next-dashboard-ui) -  (1 week ago)
 - [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop) - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions. (1 week ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。 (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
