@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, nextjs) (today)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (4 days ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (4 days ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (4 days ago)
@@ -44,7 +45,6 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (1 week ago)
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 week ago)
 - [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) - CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. (1 week ago)
-- [damien-schneider/cuicui](https://github.com/damien-schneider/cuicui) - CuiCui is a collection of high-quality, reusable components designed to streamline the development of your web applications. With a focus on providing essential UI elements, pre-built blocks, and templates, CuiCui enables you to quickly and effortlessly create professional-grade websites and SaaS platforms featuring top-notch user interfaces. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
