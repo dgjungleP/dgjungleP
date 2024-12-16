@@ -35,11 +35,11 @@
 
 #### ⭐ Recent Stars
 
-- [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (3 days ago)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (3 days ago)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (3 days ago)
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (3 days ago)
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (5 days ago)
+- [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (4 days ago)
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (4 days ago)
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (4 days ago)
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (4 days ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (6 days ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (1 week ago)
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 week ago)
