@@ -35,16 +35,16 @@
 
 #### ⭐ Recent Stars
 
+- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (today)
+- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (today)
+- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (today)
+- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (today)
+- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (today)
+- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (today)
 - [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, nextjs) (2 days ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (6 days ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (6 days ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (6 days ago)
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (6 days ago)
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 week ago)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (1 week ago)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (1 week ago)
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 week ago)
-- [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) - CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
