@@ -35,13 +35,13 @@
 
 #### ⭐ Recent Stars
 
-- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (3 days ago)
-- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (3 days ago)
-- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (3 days ago)
-- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (3 days ago)
-- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (3 days ago)
-- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (3 days ago)
-- [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (5 days ago)
+- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (4 days ago)
+- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (4 days ago)
+- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (4 days ago)
+- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (4 days ago)
+- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (4 days ago)
+- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (4 days ago)
+- [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (6 days ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (1 week ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (1 week ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 week ago)
