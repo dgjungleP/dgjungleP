@@ -35,12 +35,12 @@
 
 #### ⭐ Recent Stars
 
-- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (5 days ago)
-- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (5 days ago)
-- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (5 days ago)
-- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (5 days ago)
-- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (5 days ago)
-- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (5 days ago)
+- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (6 days ago)
+- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (6 days ago)
+- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (6 days ago)
+- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (6 days ago)
+- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (6 days ago)
+- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (6 days ago)
 - [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (1 week ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (1 week ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (1 week ago)
