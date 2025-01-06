@@ -41,7 +41,7 @@
 - [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (2 weeks ago)
 - [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (2 weeks ago)
 - [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (2 weeks ago)
-- [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (2 weeks ago)
+- [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (3 weeks ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (3 weeks ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (3 weeks ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (3 weeks ago)
