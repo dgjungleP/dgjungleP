@@ -35,12 +35,12 @@
 
 #### ⭐ Recent Stars
 
-- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (2 weeks ago)
-- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (2 weeks ago)
-- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (2 weeks ago)
-- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (2 weeks ago)
-- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (2 weeks ago)
-- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (2 weeks ago)
+- [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (3 weeks ago)
+- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (3 weeks ago)
+- [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (3 weeks ago)
+- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (3 weeks ago)
+- [taqui-786/Portfolio](https://github.com/taqui-786/Portfolio) - A Simple Portfolio made with Nextjs and Shadcn UI (3 weeks ago)
+- [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products (3 weeks ago)
 - [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (3 weeks ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (3 weeks ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (3 weeks ago)
