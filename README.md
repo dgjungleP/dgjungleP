@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. (today)
 - [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (1 month ago)
 - [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (1 month ago)
 - [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (1 month ago)
@@ -44,7 +45,6 @@
 - [asendlabs/startstack](https://github.com/asendlabs/startstack) - The easiest way to get started with your next saas project (better-auth, shadcn, stripe, nextjs) (1 month ago)
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (1 month ago)
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... (1 month ago)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
