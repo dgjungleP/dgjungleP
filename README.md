@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊 (today)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA (1 day ago)
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA (1 day ago)
 - [ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用 (1 week ago)
@@ -44,7 +45,6 @@
 - [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (2 months ago)
 - [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (2 months ago)
 - [taqui-786/itZmyLink](https://github.com/taqui-786/itZmyLink) - The Project is Live at (2 months ago)
-- [taqui-786/mixcnui](https://github.com/taqui-786/mixcnui) - Collection of Nextjs Components (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
