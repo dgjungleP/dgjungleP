@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. (today)
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python (3 days ago)
 - [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊 (4 days ago)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA (5 days ago)
@@ -44,7 +45,6 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (2 weeks ago)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. (1 month ago)
 - [taqui-786/crousal-maker](https://github.com/taqui-786/crousal-maker) - Crousel maker make with Nextjs 13 👇 (2 months ago)
-- [taqui-786/Devletter](https://github.com/taqui-786/Devletter) - Devletter - Developers weekly Newsletter (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
