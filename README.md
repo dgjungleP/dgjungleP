@@ -36,7 +36,7 @@
 #### ⭐ Recent Stars
 
 - [kaneo-app/app](https://github.com/kaneo-app/app) - An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. 🚀 (1 week ago)
-- [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. (1 week ago)
+- [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. (2 weeks ago)
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python (2 weeks ago)
 - [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊 (2 weeks ago)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA (2 weeks ago)
