@@ -53,8 +53,8 @@
 
 - [Suzan1994](https://github.com/Suzan1994)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
-- [ipqwery](https://github.com/ipqwery)
 - [idimetrix](https://github.com/idimetrix)
 - [Connor9994](https://github.com/Connor9994)
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
