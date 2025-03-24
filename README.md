@@ -51,10 +51,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Suzan1994](https://github.com/Suzan1994)
-- [VicTorWHoX](https://github.com/VicTorWHoX)
 - [idimetrix](https://github.com/idimetrix)
 - [Connor9994](https://github.com/Connor9994)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
+- [yebei199](https://github.com/yebei199)
+- [Eshaal99](https://github.com/Eshaal99)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
