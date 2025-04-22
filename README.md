@@ -40,7 +40,7 @@
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. 🚀 (1 month ago)
 - [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) - A fresh and modern Google Contacts manager that integrates with GitHub and Twitter. (1 month ago)
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python (1 month ago)
-- [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊 (1 month ago)
+- [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊 (2 months ago)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA (2 months ago)
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA (2 months ago)
 - [ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用 (2 months ago)
