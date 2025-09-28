@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
 - [idimetrix](https://github.com/idimetrix)
 - [Connor9994](https://github.com/Connor9994)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
+- [yebei199](https://github.com/yebei199)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
