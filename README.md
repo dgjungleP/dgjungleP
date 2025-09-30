@@ -34,13 +34,13 @@
 
 #### ⭐ Recent Stars
 
-- [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！ (today)
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time &amp; local speech-to-text, translation, and speaker diarization. With server &amp; web UI. (1 day ago)
-- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (1 day ago)
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 day ago)
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (1 day ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 days ago)
-- [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux. (4 days ago)
+- [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！ (1 day ago)
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time &amp; local speech-to-text, translation, and speaker diarization. With server &amp; web UI. (2 days ago)
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (2 days ago)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (2 days ago)
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (2 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 days ago)
+- [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux. (5 days ago)
 - [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开发者资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure, all-in-one acceleration engine for developer resource access. Its performance far exceeds that of traditional accelerators, providing you with a unified and efficient acceleration experience across multiple platforms (1 month ago)
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (4 months ago)
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (4 months ago)
