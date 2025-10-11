@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software (today)
 - [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！ (1 week ago)
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time &amp; local speech-to-text server. (1 week ago)
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (1 week ago)
@@ -43,7 +44,6 @@
 - [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux. (2 weeks ago)
 - [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 (1 month ago)
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (4 months ago)
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
