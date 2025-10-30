@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (5 days ago)
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (5 days ago)
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (6 days ago)
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (6 days ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 week ago)
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥 (1 week ago)
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software (2 weeks ago)
