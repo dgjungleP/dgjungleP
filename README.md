@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding (6 days ago)
+- [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding (1 week ago)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (2 weeks ago)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (2 weeks ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 weeks ago)
