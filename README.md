@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [filedonkey](https://github.com/filedonkey)
 - [S4IL21](https://github.com/S4IL21)
 - [standardgalactic](https://github.com/standardgalactic)
 - [idimetrix](https://github.com/idimetrix)
 - [Connor9994](https://github.com/Connor9994)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
