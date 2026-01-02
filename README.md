@@ -36,7 +36,7 @@
 
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (1 week ago)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (2 weeks ago)
-- [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (3 weeks ago)
+- [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (4 weeks ago)
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding (2 months ago)
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (2 months ago)
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables (2 months ago)
