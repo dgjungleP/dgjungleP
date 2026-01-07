@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (1 week ago)
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (2 weeks ago)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (3 weeks ago)
 - [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (1 month ago)
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding (2 months ago)
@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [filedonkey](https://github.com/filedonkey)
 - [S4IL21](https://github.com/S4IL21)
 - [standardgalactic](https://github.com/standardgalactic)
 - [idimetrix](https://github.com/idimetrix)
 - [Connor9994](https://github.com/Connor9994)
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
