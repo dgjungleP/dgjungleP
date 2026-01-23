@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (4 weeks ago)
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (1 month ago)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (1 month ago)
 - [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (1 month ago)
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding (2 months ago)
