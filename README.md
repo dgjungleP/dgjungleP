@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (4 days ago)
-- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (5 days ago)
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (5 days ago)
-- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (5 days ago)
-- [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser. (5 days ago)
+- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (5 days ago)
+- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (6 days ago)
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (6 days ago)
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (6 days ago)
+- [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser. (6 days ago)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (1 month ago)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (1 month ago)
 - [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (2 months ago)
