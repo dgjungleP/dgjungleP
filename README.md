@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (6 days ago)
+- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (1 week ago)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (1 week ago)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (1 week ago)
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (1 week ago)
