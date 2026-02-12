@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (today)
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (1 week ago)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (1 week ago)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (1 week ago)
@@ -43,7 +44,6 @@
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (2 months ago)
 - [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (2 months ago)
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding (3 months ago)
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
