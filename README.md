@@ -34,13 +34,13 @@
 
 #### ⭐ Recent Stars
 
-- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (3 days ago)
-- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (3 days ago)
+- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (4 days ago)
+- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (4 days ago)
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (1 week ago)
-- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (1 week ago)
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (1 week ago)
-- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (1 week ago)
-- [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser. (1 week ago)
+- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (2 weeks ago)
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (2 weeks ago)
+- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (2 weeks ago)
+- [openstf/stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser. (2 weeks ago)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (1 month ago)
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite (2 months ago)
 - [jsyqrt/games](https://github.com/jsyqrt/games) - 16 games with c&#43;&#43; and SFML (2 months ago)
