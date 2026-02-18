@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (5 days ago)
-- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (5 days ago)
+- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (6 days ago)
+- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (6 days ago)
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (2 weeks ago)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (2 weeks ago)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (2 weeks ago)
