@@ -36,7 +36,7 @@
 
 - [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (1 week ago)
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (1 week ago)
-- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (2 weeks ago)
+- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (3 weeks ago)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (3 weeks ago)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (3 weeks ago)
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (3 weeks ago)
