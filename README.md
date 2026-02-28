@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [golutra/golutra](https://github.com/golutra/golutra) -  (today)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. (today)
+- [golutra/golutra](https://github.com/golutra/golutra) -  (1 day ago)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. (1 day ago)
 - [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (2 weeks ago)
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (2 weeks ago)
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (3 weeks ago)
