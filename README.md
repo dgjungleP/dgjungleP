@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [golutra/golutra](https://github.com/golutra/golutra) -  (5 days ago)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (5 days ago)
-- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (2 weeks ago)
-- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (2 weeks ago)
-- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (4 weeks ago)
+- [golutra/golutra](https://github.com/golutra/golutra) -  (6 days ago)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (6 days ago)
+- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (3 weeks ago)
+- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (3 weeks ago)
+- [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (1 month ago)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (1 month ago)
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (1 month ago)
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (1 month ago)
