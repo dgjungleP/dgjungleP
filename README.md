@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) - 🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站 (today)
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server (today)
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API (1 day ago)
 - [pysunday/sdenv](https://github.com/pysunday/sdenv) - 补环境框架sdenv，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理 (5 days ago)
@@ -43,7 +44,6 @@
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (3 weeks ago)
 - [veyon/veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management (1 month ago)
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows (1 month ago)
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
