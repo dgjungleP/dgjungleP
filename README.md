@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (today)
 - [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (today)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) -  (1 week ago)
 - [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) - 🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站 (1 week ago)
@@ -43,7 +44,6 @@
 - [golutra/golutra](https://github.com/golutra/golutra) -  (3 weeks ago)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (3 weeks ago)
 - [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (1 month ago)
-- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
