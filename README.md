@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (1 day ago)
-- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (1 day ago)
+- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (2 days ago)
+- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (2 days ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) -  (1 week ago)
 - [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) - 🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站 (1 week ago)
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server (1 week ago)
