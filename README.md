@@ -34,12 +34,12 @@
 
 #### ⭐ Recent Stars
 
-- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (2 days ago)
-- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (2 days ago)
+- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (3 days ago)
+- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (3 days ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) -  (1 week ago)
 - [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) - 🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站 (1 week ago)
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server (1 week ago)
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API (1 week ago)
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API (2 weeks ago)
 - [pysunday/sdenv](https://github.com/pysunday/sdenv) - 补环境框架sdenv，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理 (2 weeks ago)
 - [golutra/golutra](https://github.com/golutra/golutra) -  (3 weeks ago)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (3 weeks ago)
