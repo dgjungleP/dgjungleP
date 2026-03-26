@@ -34,6 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (today)
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 (today)
 - [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (5 days ago)
 - [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (5 days ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) -  (2 weeks ago)
@@ -42,8 +44,6 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API (2 weeks ago)
 - [pysunday/sdenv](https://github.com/pysunday/sdenv) - 补环境框架sdenv，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理 (2 weeks ago)
 - [golutra/golutra](https://github.com/golutra/golutra) -  (3 weeks ago)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (3 weeks ago)
-- [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) - 使用ddddocr的最简api搭建项目，支持docker (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
