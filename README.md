@@ -34,13 +34,13 @@
 
 #### ⭐ Recent Stars
 
-- [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) - 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary (1 day ago)
+- [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) - 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary (2 days ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (1 week ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 week ago)
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️ (1 week ago)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 (1 week ago)
-- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (1 week ago)
-- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (1 week ago)
+- [ChinaTelecomOperators/SMSForward](https://github.com/ChinaTelecomOperators/SMSForward) -  (2 weeks ago)
+- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description (2 weeks ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) -  (3 weeks ago)
 - [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) - 🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站 (3 weeks ago)
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server (3 weeks ago)
