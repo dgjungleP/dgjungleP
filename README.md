@@ -34,8 +34,9 @@
 
 #### ⭐ Recent Stars
 
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (4 days ago)
-- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (5 days ago)
+- [Last-emo-boy/rikune](https://github.com/Last-emo-boy/rikune) -  (today)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (5 days ago)
+- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (6 days ago)
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY! (1 week ago)
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 week ago)
 - [kgspider/crawler](https://github.com/kgspider/crawler) - K 哥爬虫代码分享，JS 逆向，爬虫进阶。关注公众号：K哥爬虫 (1 week ago)
@@ -43,7 +44,6 @@
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 week ago)
 - [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust) - 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary (1 week ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (2 weeks ago)
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
