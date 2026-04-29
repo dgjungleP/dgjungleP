@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. (today)
-- [Last-emo-boy/rikune](https://github.com/Last-emo-boy/rikune) -  (1 week ago)
+- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. (1 day ago)
+- [Last-emo-boy/rikune](https://github.com/Last-emo-boy/rikune) -  (2 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (2 weeks ago)
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (2 weeks ago)
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY! (3 weeks ago)
