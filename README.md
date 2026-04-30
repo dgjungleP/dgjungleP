@@ -50,7 +50,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [zahracheginy](https://github.com/zahracheginy)
+- [vibecodinguy](https://github.com/vibecodinguy)
 - [S4IL21](https://github.com/S4IL21)
 - [standardgalactic](https://github.com/standardgalactic)
 - [idimetrix](https://github.com/idimetrix)
