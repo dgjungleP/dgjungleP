@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 &#43; MITM 代理 &#43; 指纹伪装 &#43; AI 分析 &#43; MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis &amp; MCP server for agent integration (2 days ago)
-- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. (4 days ago)
+- [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 &#43; MITM 代理 &#43; 指纹伪装 &#43; AI 分析 &#43; MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis &amp; MCP server for agent integration (3 days ago)
+- [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine. (5 days ago)
 - [Last-emo-boy/rikune](https://github.com/Last-emo-boy/rikune) -  (2 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (3 weeks ago)
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. (3 weeks ago)
