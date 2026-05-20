@@ -34,10 +34,10 @@
 
 #### ⭐ Recent Stars
 
-- [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let&#39;s use AI to Earn! (5 days ago)
-- [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative (6 days ago)
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (6 days ago)
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful. (6 days ago)
+- [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let&#39;s use AI to Earn! (6 days ago)
+- [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative (1 week ago)
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (1 week ago)
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful. (1 week ago)
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.  (1 week ago)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (1 week ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 week ago)
