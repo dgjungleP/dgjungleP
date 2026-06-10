@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - 逆向/渗透/安全技能路由包 - AI 自动路由 &#43; 按需自举工具链 &#43; 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 (today)
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (1 day ago)
 - [davidhckh/portfolio-2025](https://github.com/davidhckh/portfolio-2025) - Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture. (2 weeks ago)
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |   (2 weeks ago)
@@ -43,7 +44,6 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful. (4 weeks ago)
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.  (1 month ago)
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. (1 month ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
