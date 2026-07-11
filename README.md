@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [splincode](https://github.com/splincode)
 - [helallao](https://github.com/helallao)
 - [vibecodinguy](https://github.com/vibecodinguy)
 - [S4IL21](https://github.com/S4IL21)
 - [standardgalactic](https://github.com/standardgalactic)
-- [idimetrix](https://github.com/idimetrix)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
