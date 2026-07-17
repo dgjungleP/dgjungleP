@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (today)
 - [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory) - 天天中转站 (1 week ago)
 - [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) - AI-native red-team workbench for authorized penetration testing and vulnerability research, with specialist agents, sandboxed tooling, evidence records, and replayable timelines. (3 weeks ago)
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine (3 weeks ago)
@@ -43,7 +44,6 @@
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |   (1 month ago)
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let&#39;s use AI to Earn! (2 months ago)
 - [CloakHQ/CloakBrowser-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints. Free, self-hosted   Multilogin alternative (2 months ago)
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
