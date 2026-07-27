@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health. (today)
 - [jasonwong1991/easy_proxies](https://github.com/jasonwong1991/easy_proxies) - A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。 (3 days ago)
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 (3 days ago)
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统) (3 days ago)
@@ -43,7 +44,6 @@
 - [Aabyss-Team/ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 (4 days ago)
 - [Kento-Sec/AsamF](https://github.com/Kento-Sec/AsamF) - AsamF是集成Fofa、Quake、Hunter、Shodan、Zoomeye、Chinaz、0.zone及爱企查的一站式企业信息资产收集、网络资产测绘工具。 (4 days ago)
 - [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入 (4 days ago)
-- [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
