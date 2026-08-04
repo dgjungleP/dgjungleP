@@ -34,9 +34,9 @@
 
 #### ⭐ Recent Stars
 
-- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (4 days ago)
-- [haobachang-1/haobachangBlog](https://github.com/haobachang-1/haobachangBlog) - haobachangBlog (6 days ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (6 days ago)
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (5 days ago)
+- [haobachang-1/haobachangBlog](https://github.com/haobachang-1/haobachangBlog) - haobachangBlog (1 week ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health. (1 week ago)
 - [jasonwong1991/easy_proxies](https://github.com/jasonwong1991/easy_proxies) - A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。 (1 week ago)
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 (1 week ago)
