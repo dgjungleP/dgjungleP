@@ -34,6 +34,8 @@
 
 #### ⭐ Recent Stars
 
+- [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (today)
+- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (today)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (6 days ago)
 - [haobachang-1/haobachangBlog](https://github.com/haobachang-1/haobachangBlog) - haobachangBlog (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
@@ -42,8 +44,6 @@
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 (1 week ago)
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统) (1 week ago)
 - [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively. (1 week ago)
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 (1 week ago)
-- [hanc00l/nemo_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
