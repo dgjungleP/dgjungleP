@@ -34,13 +34,13 @@
 
 #### ⭐ Recent Stars
 
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (today)
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (today)
-- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - A low-latency, cross-platform remote desktop (today)
-- [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (today)
-- [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (1 day ago)
-- [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (1 day ago)
-- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (1 day ago)
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (1 day ago)
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (1 day ago)
+- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - A low-latency, cross-platform remote desktop (1 day ago)
+- [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (1 day ago)
+- [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (2 days ago)
+- [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (2 days ago)
+- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (2 days ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 week ago)
 - [haobachang-1/haobachangBlog](https://github.com/haobachang-1/haobachangBlog) - haobachangBlog (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
