@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (today)
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (4 days ago)
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (4 days ago)
 - [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - A low-latency, cross-platform remote desktop (4 days ago)
@@ -43,7 +44,6 @@
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (5 days ago)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (1 week ago)
 - [haobachang-1/haobachangBlog](https://github.com/haobachang-1/haobachangBlog) - haobachangBlog (1 week ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
