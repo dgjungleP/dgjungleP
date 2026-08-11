@@ -39,7 +39,7 @@
 - [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (1 day ago)
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (5 days ago)
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (5 days ago)
-- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - A low-latency, cross-platform remote desktop (5 days ago)
+- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely, which ordinary remote desktop tools can&#39;t pull off. (5 days ago)
 - [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (5 days ago)
 - [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (6 days ago)
 - [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (6 days ago)
