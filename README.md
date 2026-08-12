@@ -34,16 +34,16 @@
 
 #### ⭐ Recent Stars
 
-- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (today)
-- [LittleSurvival/copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) - Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme (1 day ago)
-- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (1 day ago)
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (5 days ago)
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (5 days ago)
-- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely, which ordinary remote desktop tools can&#39;t pull off. (5 days ago)
-- [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (5 days ago)
-- [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (6 days ago)
-- [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (6 days ago)
-- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (6 days ago)
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (1 day ago)
+- [LittleSurvival/copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) - Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme (2 days ago)
+- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (2 days ago)
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (6 days ago)
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (6 days ago)
+- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely, which ordinary remote desktop tools can&#39;t pull off. (6 days ago)
+- [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (6 days ago)
+- [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (1 week ago)
+- [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (1 week ago)
+- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
