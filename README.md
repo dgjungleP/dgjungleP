@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 把专项训练、简历面试、JD 备面、实时 Copilot 与录音复盘，串成一个持续进化的技术面试闭环。在线体验地址：https://techspar.top (today)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (2 days ago)
 - [LittleSurvival/copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) - Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme (3 days ago)
 - [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (3 days ago)
@@ -43,7 +44,6 @@
 - [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (1 week ago)
 - [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (1 week ago)
 - [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (1 week ago)
-- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 现代Python游戏自动化框架(支持Windows/模拟器/浏览器) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
