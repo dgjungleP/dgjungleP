@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. (today)
 - [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 把专项训练、简历面试、JD 备面、实时 Copilot 与录音复盘，串成一个持续进化的技术面试闭环。在线体验地址：https://techspar.top (1 day ago)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (3 days ago)
 - [LittleSurvival/copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) - Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme (4 days ago)
@@ -43,7 +44,6 @@
 - [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely, which ordinary remote desktop tools can&#39;t pull off. (1 week ago)
 - [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (1 week ago)
 - [jiaxiwangau-star/gesto-engine](https://github.com/jiaxiwangau-star/gesto-engine) - Gesture-recognition engine (record-and-learn / KNN) · source-available (PolyForm Noncommercial) · powered by MediaPipe · gestomeme.com (1 week ago)
-- [ok-oldking/ok-script-app](https://github.com/ok-oldking/ok-script-app) - Python版按键精灵基于ok-script开发 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
