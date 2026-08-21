@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet. (today)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (1 day ago)
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. (1 week ago)
 - [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 把专项训练、简历面试、JD 备面、实时 Copilot 与录音复盘，串成一个持续进化的技术面试闭环。在线体验地址：https://techspar.top (1 week ago)
@@ -43,7 +44,6 @@
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (2 weeks ago)
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (2 weeks ago)
 - [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely, which ordinary remote desktop tools can&#39;t pull off. (2 weeks ago)
-- [xtwlyx01/sunnyprocessagent](https://github.com/xtwlyx01/sunnyprocessagent) - 单窗口单IP 支持进程代理 远程api控制 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
