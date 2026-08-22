@@ -43,7 +43,7 @@
 - [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (1 week ago)
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (2 weeks ago)
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking (2 weeks ago)
-- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely, which ordinary remote desktop tools can&#39;t pull off. (2 weeks ago)
+- [manhpham90vn/Deskhub](https://github.com/manhpham90vn/Deskhub) - Open-source. Native. Cross-platform. Remote desktop that feels local — fast and raw enough to actually play games remotely (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
