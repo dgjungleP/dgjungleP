@@ -34,12 +34,12 @@
 
 #### ⭐ Recent Stars
 
-- [0xzerobulue/web3_tools](https://github.com/0xzerobulue/web3_tools) -  (3 days ago)
+- [0xzerobulue/web3_tools](https://github.com/0xzerobulue/web3_tools) -  (4 days ago)
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet. (1 week ago)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (1 week ago)
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. (2 weeks ago)
 - [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 一个持续进化的面试训练系统。在线体验地址：https://techspar.cn (2 weeks ago)
-- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (2 weeks ago)
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (3 weeks ago)
 - [LittleSurvival/copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) - Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme (3 weeks ago)
 - [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves (3 weeks ago)
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs. (3 weeks ago)
