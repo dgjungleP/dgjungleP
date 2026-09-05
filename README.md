@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [2akouwu/reverify](https://github.com/2akouwu/reverify) - Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server &#43; CLI. (1 day ago)
+- [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server &#43; CLI. (1 day ago)
 - [wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill) - 糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！ (2 days ago)
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (2 days ago)
 - [ra1nty/DXcam](https://github.com/ra1nty/DXcam) - A Python high-performance screen capture library for Windows using Desktop Duplication API - Updated 2026 (2 days ago)
