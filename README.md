@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL) - Free Windows Detector Software (1 day ago)
+- [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL) - Free Windows Detector Software (2 days ago)
 - [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server &#43; CLI. (1 week ago)
 - [wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill) - 糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！ (1 week ago)
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 week ago)
