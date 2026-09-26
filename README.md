@@ -54,6 +54,6 @@
 - [lxlynx](https://github.com/lxlynx)
 - [seckinyasar](https://github.com/seckinyasar)
 - [splincode](https://github.com/splincode)
-- [helallao](https://github.com/helallao)
+- [vibecodinguy](https://github.com/vibecodinguy)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
