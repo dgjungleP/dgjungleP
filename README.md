@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&amp;阅读工具（书签管理器 &#43; 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。 (today)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (4 days ago)
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 (4 days ago)
 - [reversecore/book](https://github.com/reversecore/book) - 리버싱 핵심원리 - 소스 코드 및 실습 예제 (1 week ago)
@@ -43,7 +44,6 @@
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (3 weeks ago)
 - [ra1nty/DXcam](https://github.com/ra1nty/DXcam) - A Python high-performance screen capture library for Windows using Desktop Duplication API - Updated 2026 (3 weeks ago)
 - [0xzerobulue/web3_tools](https://github.com/0xzerobulue/web3_tools) -  (1 month ago)
-- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
