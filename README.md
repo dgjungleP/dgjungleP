@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [buraksocial](https://github.com/buraksocial)
 - [FaresAhmed23](https://github.com/FaresAhmed23)
 - [lxlynx](https://github.com/lxlynx)
 - [seckinyasar](https://github.com/seckinyasar)
 - [splincode](https://github.com/splincode)
-- [vibecodinguy](https://github.com/vibecodinguy)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
