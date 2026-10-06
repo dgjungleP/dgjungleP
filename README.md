@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) - VMP分析工具 (5 days ago)
-- [cedar-v/license-manager](https://github.com/cedar-v/license-manager) - License Manager is an independent software licensing platform that provides license code generation, distribution, validation, and management services for IoT platforms and other software systems. It offers both online and offline licensing modes with hardware-based binding for enhanced security. (5 days ago)
+- [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) - VMP分析工具 (6 days ago)
+- [cedar-v/license-manager](https://github.com/cedar-v/license-manager) - License Manager is an independent software licensing platform that provides license code generation, distribution, validation, and management services for IoT platforms and other software systems. It offers both online and offline licensing modes with hardware-based binding for enhanced security. (6 days ago)
 - [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&amp;阅读工具（书签管理器 &#43; 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。 (1 week ago)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (1 week ago)
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 (1 week ago)
