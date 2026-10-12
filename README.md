@@ -34,14 +34,14 @@
 
 #### ⭐ Recent Stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 days ago)
 - [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) - VMP分析工具 (1 week ago)
 - [cedar-v/license-manager](https://github.com/cedar-v/license-manager) - License Manager is an independent software licensing platform that provides license code generation, distribution, validation, and management services for IoT platforms and other software systems. It offers both online and offline licensing modes with hardware-based binding for enhanced security. (1 week ago)
-- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&amp;阅读工具（书签管理器 &#43; 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。 (1 week ago)
+- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&amp;阅读工具（书签管理器 &#43; 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。 (2 weeks ago)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (2 weeks ago)
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。 (2 weeks ago)
-- [reversecore/book](https://github.com/reversecore/book) - 리버싱 핵심원리 - 소스 코드 및 실습 예제 (2 weeks ago)
-- [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL) - Free Windows Detector Software (3 weeks ago)
+- [reversecore/book](https://github.com/reversecore/book) - 리버싱 핵심원리 - 소스 코드 및 실습 예제 (3 weeks ago)
+- [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL) - Free Windows Detector Software (4 weeks ago)
 - [2akouwu/reverify](https://github.com/2akouwu/reverify) - Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server &#43; CLI. (1 month ago)
 - [wbh604/fund-guy-skill](https://github.com/wbh604/fund-guy-skill) - 糟糕，我被基佬包围了！那么这个时候就有人要问了，主播主播，有没有什么简单好用的基佬筛选办法？有的兄弟，有的，快来看看jilaoskill吧！ (1 month ago)
 
