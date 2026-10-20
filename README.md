@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. (6 days ago)
+- [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. (1 week ago)
 - [Umiade/xenoid](https://github.com/Umiade/xenoid) - An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts (1 week ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) - VMP分析工具 (2 weeks ago)
