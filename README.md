@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (today)
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. (1 week ago)
 - [Umiade/xenoid](https://github.com/Umiade/xenoid) - An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts (1 week ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
@@ -43,7 +44,6 @@
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (3 weeks ago)
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。 (3 weeks ago)
 - [reversecore/book](https://github.com/reversecore/book) - 리버싱 핵심원리 - 소스 코드 및 실습 예제 (4 weeks ago)
-- [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL) - Free Windows Detector Software (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
