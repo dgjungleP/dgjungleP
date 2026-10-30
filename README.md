@@ -52,8 +52,8 @@
 
 - [buraksocial](https://github.com/buraksocial)
 - [FaresAhmed23](https://github.com/FaresAhmed23)
-- [lxlynx](https://github.com/lxlynx)
 - [splincode](https://github.com/splincode)
 - [vibecodinguy](https://github.com/vibecodinguy)
+- [S4IL21](https://github.com/S4IL21)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
