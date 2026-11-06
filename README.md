@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Lyn231231](https://github.com/Lyn231231)
 - [FaresAhmed23](https://github.com/FaresAhmed23)
 - [splincode](https://github.com/splincode)
 - [vibecodinguy](https://github.com/vibecodinguy)
 - [S4IL21](https://github.com/S4IL21)
-- [standardgalactic](https://github.com/standardgalactic)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
