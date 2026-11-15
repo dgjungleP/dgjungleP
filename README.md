@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export. (today)
 - [computervisioneng/opencv-python-course-computer-vision](https://github.com/computervisioneng/opencv-python-course-computer-vision) -  (2 days ago)
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60&#43; languages. (6 days ago)
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt; (2 weeks ago)
@@ -43,7 +44,6 @@
 - [Umiade/xenoid](https://github.com/Umiade/xenoid) - An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts (1 month ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) - VMP分析工具 (1 month ago)
-- [cedar-v/license-manager](https://github.com/cedar-v/license-manager) - License Manager is an independent software licensing platform that provides license code generation, distribution, validation, and management services for IoT platforms and other software systems. It offers both online and offline licensing modes with hardware-based binding for enhanced security. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
