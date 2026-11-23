@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。 (today)
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export. (1 week ago)
 - [computervisioneng/opencv-python-course-computer-vision](https://github.com/computervisioneng/opencv-python-course-computer-vision) -  (1 week ago)
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60&#43; languages. (2 weeks ago)
@@ -43,7 +44,6 @@
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. (1 month ago)
 - [Umiade/xenoid](https://github.com/Umiade/xenoid) - An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts (1 month ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
-- [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp) - VMP分析工具 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
