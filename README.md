@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。 (today)
+- [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。 (1 day ago)
 - [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export. (1 week ago)
 - [computervisioneng/opencv-python-course-computer-vision](https://github.com/computervisioneng/opencv-python-course-computer-vision) -  (1 week ago)
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60&#43; languages. (2 weeks ago)
@@ -50,10 +50,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Lyn231231](https://github.com/Lyn231231)
 - [FaresAhmed23](https://github.com/FaresAhmed23)
 - [splincode](https://github.com/splincode)
 - [vibecodinguy](https://github.com/vibecodinguy)
 - [S4IL21](https://github.com/S4IL21)
+- [standardgalactic](https://github.com/standardgalactic)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
